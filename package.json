@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "bundle": "webpack -p --optimize-dedupe"
+    "predeploy": "webpack -p --optimize-dedupe",
+    "deploy": "gulp deploy"
   },
   "author": "Geoffroy Warin",
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^0.16.0",
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.2",
     "html-webpack-plugin": "^1.6.1",
     "jeet": "^6.1.2",
     "nib": "^1.1.0",
