@@ -1,11 +1,20 @@
 import React = require('react');
+import axios = require('axios');
 
 interface Props {
-	content?: string;
+    content?: string;
 }
 
 export default class App extends React.Component<Props, {}> {
-	render() {
-		return <h1>Hello world</h1>
-	}
+
+    componentDidMount() {
+        axios.get('/fr-en.json')
+            .then(function(response) {
+                console.log(response);
+            })
+    }
+
+    render() {
+        return <h1>Hello world</h1>
+    }
 }

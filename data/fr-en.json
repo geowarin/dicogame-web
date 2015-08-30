@@ -1,0 +1,7276 @@
+{
+    "personne": [
+        "person",
+        "individual",
+        "someone",
+        "somebody",
+        "mortal",
+        "soul"
+    ],
+    "animal": [
+        "animal",
+        "animate being",
+        "beast",
+        "brute",
+        "creature",
+        "fauna"
+    ],
+    "plante": [
+        "plant",
+        "flora",
+        "plant life"
+    ],
+    "nourriture": [
+        "food",
+        "nutrient"
+    ],
+    "connaissance": [
+        "knowledge",
+        "cognition",
+        "noesis"
+    ],
+    "sentiment": [
+        "feeling"
+    ],
+    "espace": [
+        "space",
+        "infinite"
+    ],
+    "\u00e9v\u00e9nement": [
+        "event"
+    ],
+    "processus": [
+        "process",
+        "physical process"
+    ],
+    "acte": [
+        "act",
+        "deed",
+        "human action",
+        "human activity"
+    ],
+    "groupe": [
+        "group",
+        "grouping"
+    ],
+    "relation": [
+        "relation"
+    ],
+    "d\u00e9couverte": [
+        "discovery",
+        "find",
+        "uncovering"
+    ],
+    "record": [
+        "record"
+    ],
+    "perte": [
+        "loss"
+    ],
+    "erreur": [
+        "mistake",
+        "error",
+        "fault"
+    ],
+    "chute": [
+        "fall",
+        "spill",
+        "tumble"
+    ],
+    "coup de pied": [
+        "kick",
+        "boot",
+        "kicking"
+    ],
+    "baiser": [
+        "kiss",
+        "buss",
+        "osculation"
+    ],
+    "comparaison": [
+        "comparison",
+        "comparing"
+    ],
+    "mani\u00e8re": [
+        "means",
+        "agency",
+        "way"
+    ],
+    "\u00e9change": [
+        "substitution",
+        "exchange",
+        "commutation"
+    ],
+    "destruction": [
+        "destruction",
+        "devastation"
+    ],
+    "vol": [
+        "flight",
+        "flying"
+    ],
+    "voyage": [
+        "journey",
+        "journeying"
+    ],
+    "d\u00e9rapage": [
+        "skid",
+        "slip",
+        "sideslip"
+    ],
+    "coupure": [
+        "cut",
+        "cutting"
+    ],
+    "partage": [
+        "division",
+        "partition",
+        "partitioning",
+        "segmentation",
+        "sectionalization",
+        "sectionalisation"
+    ],
+    "op\u00e9ration": [
+        "operation"
+    ],
+    "distraction": [
+        "entertainment",
+        "amusement"
+    ],
+    "travail": [
+        "work"
+    ],
+    "sous la garde de": [
+        "care",
+        "attention",
+        "aid",
+        "tending"
+    ],
+    "op\u00e9ration": [
+        "operation",
+        "surgery",
+        "surgical operation",
+        "surgical procedure",
+        "surgical process"
+    ],
+    "ruse": [
+        "trick"
+    ],
+    "infraction": [
+        "crime",
+        "offense",
+        "criminal offense",
+        "criminal offence",
+        "offence",
+        "law-breaking"
+    ],
+    "tentative": [
+        "attempt",
+        "effort",
+        "endeavor",
+        "endeavour",
+        "try"
+    ],
+    "sexe": [
+        "sex",
+        "sexual activity",
+        "sexual practice",
+        "sex activity"
+    ],
+    "frisson": [
+        "shake",
+        "tremble",
+        "shiver"
+    ],
+    "addition": [
+        "addition",
+        "summation",
+        "plus"
+    ],
+    "\u00e9tudes": [
+        "education",
+        "instruction",
+        "teaching",
+        "pedagogy",
+        "didactics",
+        "educational activity"
+    ],
+    "industrie": [
+        "industry",
+        "manufacture"
+    ],
+    "dessin": [
+        "design",
+        "designing"
+    ],
+    "usage": [
+        "use",
+        "usage",
+        "utilization",
+        "utilisation",
+        "employment",
+        "exercise"
+    ],
+    "attaque": [
+        "attack",
+        "onslaught",
+        "onset",
+        "onrush"
+    ],
+    "mesurage": [
+        "measurement",
+        "measuring",
+        "measure",
+        "mensuration"
+    ],
+    "repos": [
+        "rest",
+        "ease",
+        "repose",
+        "relaxation"
+    ],
+    "commerce": [
+        "trade"
+    ],
+    "march\u00e9": [
+        "market",
+        "marketplace",
+        "market place"
+    ],
+    "transport": [
+        "transport",
+        "shipping",
+        "transportation"
+    ],
+    "punition": [
+        "punishment",
+        "penalty",
+        "penalization",
+        "penalisation"
+    ],
+    "combat": [
+        "fight",
+        "fighting",
+        "combat",
+        "scrap"
+    ],
+    "coup": [
+        "blow"
+    ],
+    "aide": [
+        "help",
+        "aid",
+        "assist",
+        "assistance"
+    ],
+    "approbation": [
+        "approval",
+        "blessing",
+        "approving"
+    ],
+    "soutien": [
+        "support"
+    ],
+    "rencontre": [
+        "meeting",
+        "coming together"
+    ],
+    "oeuf": [
+        "egg"
+    ],
+    "oiseau": [
+        "bird"
+    ],
+    "serpent": [
+        "snake",
+        "serpent",
+        "ophidian"
+    ],
+    "plume": [
+        "feather",
+        "plume",
+        "plumage"
+    ],
+    "chien": [
+        "dog",
+        "domestic dog",
+        "Canis familiaris"
+    ],
+    "chat": [
+        "cat",
+        "true cat"
+    ],
+    "aile": [
+        "wing"
+    ],
+    "queue": [
+        "tail"
+    ],
+    "insecte": [
+        "insect"
+    ],
+    "mouche": [
+        "fly"
+    ],
+    "abeille": [
+        "bee"
+    ],
+    "fourmi": [
+        "ant",
+        "emmet",
+        "pismire"
+    ],
+    "cheval": [
+        "horse",
+        "Equus caballus"
+    ],
+    "porc": [
+        "pig",
+        "hog",
+        "grunter",
+        "squealer",
+        "Sus scrofa"
+    ],
+    "vache": [
+        "cow",
+        "moo-cow"
+    ],
+    "mouton": [
+        "sheep"
+    ],
+    "ch\u00e8vre": [
+        "goat",
+        "caprine animal"
+    ],
+    "homme": [
+        "human",
+        "homo",
+        "man",
+        "human being"
+    ],
+    "singe": [
+        "monkey"
+    ],
+    "poisson": [
+        "fish"
+    ],
+    "nouveau venu": [
+        "addition",
+        "add-on",
+        "improver"
+    ],
+    "avion": [
+        "plane",
+        "airplane",
+        "aeroplane"
+    ],
+    "appartement": [
+        "flat",
+        "apartment"
+    ],
+    "beaux-arts": [
+        "art",
+        "fine art"
+    ],
+    "arri\u00e8re": [
+        "back"
+    ],
+    "poche": [
+        "bag"
+    ],
+    "balle": [
+        "ball"
+    ],
+    "base": [
+        "base",
+        "base of operations"
+    ],
+    "panier": [
+        "basket",
+        "handbasket"
+    ],
+    "lit": [
+        "bed"
+    ],
+    "cloche": [
+        "bell"
+    ],
+    "anse": [
+        "curve",
+        "bend"
+    ],
+    "bicyclette": [
+        "bike",
+        "bicycle",
+        "wheel",
+        "cycle"
+    ],
+    "lame": [
+        "blade"
+    ],
+    "panneau": [
+        "board"
+    ],
+    "bateau": [
+        "boat"
+    ],
+    "livre": [
+        "book",
+        "volume"
+    ],
+    "botte": [
+        "boot"
+    ],
+    "bouteille": [
+        "bottle"
+    ],
+    "bo\u00eete": [
+        "box"
+    ],
+    "brique": [
+        "brick"
+    ],
+    "pont": [
+        "bridge",
+        "span"
+    ],
+    "brosse": [
+        "brush"
+    ],
+    "b\u00e2timent": [
+        "building",
+        "edifice"
+    ],
+    "appareil photographique": [
+        "camera",
+        "photographic camera"
+    ],
+    "bo\u00eete": [
+        "can",
+        "tin",
+        "tin can"
+    ],
+    "carte": [
+        "card"
+    ],
+    "cha\u00eene": [
+        "chain"
+    ],
+    "\u00e9glise": [
+        "church",
+        "church building"
+    ],
+    "horloge": [
+        "clock"
+    ],
+    "manteau": [
+        "coat"
+    ],
+    "col": [
+        "collar",
+        "neckband"
+    ],
+    "connecteur": [
+        "connection",
+        "connexion",
+        "connector",
+        "connecter",
+        "connective"
+    ],
+    "copie": [
+        "copy"
+    ],
+    "coton": [
+        "cotton"
+    ],
+    "tasse": [
+        "cup"
+    ],
+    "coupe": [
+        "cup",
+        "loving cup"
+    ],
+    "rideau": [
+        "curtain",
+        "drape",
+        "drapery",
+        "mantle",
+        "pall"
+    ],
+    "d\u00e9coration": [
+        "decoration",
+        "ornament",
+        "ornamentation"
+    ],
+    "porte": [
+        "door"
+    ],
+    "tiroir": [
+        "drawer"
+    ],
+    "ascenseur": [
+        "elevator",
+        "lift"
+    ],
+    "moteur": [
+        "engine"
+    ],
+    "tissu": [
+        "cloth",
+        "fabric",
+        "material",
+        "textile"
+    ],
+    "ferme": [
+        "farm"
+    ],
+    "drapeau": [
+        "flag"
+    ],
+    "plancher": [
+        "floor",
+        "flooring"
+    ],
+    "\u00e9tage": [
+        "floor",
+        "level",
+        "storey",
+        "story"
+    ],
+    "fourchette": [
+        "fork"
+    ],
+    "cadre": [
+        "frame"
+    ],
+    "jardin": [
+        "garden"
+    ],
+    "verre": [
+        "glass",
+        "drinking glass"
+    ],
+    "fusil": [
+        "gun"
+    ],
+    "marteau": [
+        "hammer"
+    ],
+    "anse": [
+        "handle",
+        "grip",
+        "handgrip",
+        "hold"
+    ],
+    "chapeau": [
+        "hat",
+        "chapeau",
+        "lid"
+    ],
+    "crochet": [
+        "hook",
+        "claw"
+    ],
+    "h\u00f4pital": [
+        "hospital",
+        "infirmary"
+    ],
+    "maison": [
+        "house"
+    ],
+    "instrument": [
+        "instrument"
+    ],
+    "internet": [
+        "internet",
+        "net",
+        "cyberspace"
+    ],
+    "pierre pr\u00e9cieuse": [
+        "jewel",
+        "gem",
+        "precious stone"
+    ],
+    "clef": [
+        "key"
+    ],
+    "couteau": [
+        "knife"
+    ],
+    "noeud": [
+        "knot"
+    ],
+    "biblioth\u00e8que": [
+        "library"
+    ],
+    "serrure": [
+        "lock"
+    ],
+    "machine": [
+        "machine"
+    ],
+    "carte": [
+        "map"
+    ],
+    "allumette": [
+        "match",
+        "lucifer",
+        "friction match"
+    ],
+    "mine": [
+        "mine"
+    ],
+    "clou": [
+        "nail"
+    ],
+    "aiguille": [
+        "needle"
+    ],
+    "r\u00e9seau": [
+        "net",
+        "network",
+        "mesh",
+        "meshing",
+        "meshwork"
+    ],
+    "\u00e9crou": [
+        "nut"
+    ],
+    "bureau": [
+        "office",
+        "business office"
+    ],
+    "four": [
+        "oven"
+    ],
+    "peinture": [
+        "paint",
+        "pigment"
+    ],
+    "plume": [
+        "pen"
+    ],
+    "crayon": [
+        "pencil"
+    ],
+    "image": [
+        "picture",
+        "image",
+        "icon",
+        "ikon"
+    ],
+    "\u00e9pingle": [
+        "pin"
+    ],
+    "tuyau": [
+        "pipe",
+        "pipage",
+        "piping"
+    ],
+    "assiette": [
+        "plate"
+    ],
+    "prison": [
+        "prison",
+        "prison house"
+    ],
+    "pompe": [
+        "pump"
+    ],
+    "bouton": [
+        "button",
+        "push button",
+        "push"
+    ],
+    "anneau": [
+        "ring",
+        "band"
+    ],
+    "route": [
+        "road",
+        "route"
+    ],
+    "toit": [
+        "roof"
+    ],
+    "pi\u00e8ce": [
+        "room"
+    ],
+    "voile": [
+        "sail",
+        "canvas",
+        "canvass",
+        "sheet"
+    ],
+    "\u00e9cole": [
+        "school",
+        "schoolhouse"
+    ],
+    "ciseaux": [
+        "scissors",
+        "pair of scissors"
+    ],
+    "couvercle": [
+        "cover",
+        "screen",
+        "covert",
+        "concealment"
+    ],
+    "\u00e9tag\u00e8re": [
+        "shelf"
+    ],
+    "navire": [
+        "ship"
+    ],
+    "chemise": [
+        "shirt"
+    ],
+    "chaussure": [
+        "shoe"
+    ],
+    "magasin": [
+        "shop",
+        "store"
+    ],
+    "soie": [
+        "silk"
+    ],
+    "jupe": [
+        "skirt"
+    ],
+    "savon": [
+        "soap"
+    ],
+    "chaussettes": [
+        "sock"
+    ],
+    "cuill\u00e8re": [
+        "spoon"
+    ],
+    "ressort": [
+        "spring"
+    ],
+    "sc\u00e8ne": [
+        "stage"
+    ],
+    "tampon": [
+        "stamp"
+    ],
+    "poste": [
+        "station"
+    ],
+    "marche": [
+        "step",
+        "stair"
+    ],
+    "canne": [
+        "stick"
+    ],
+    "point": [
+        "stitch"
+    ],
+    "rue": [
+        "street"
+    ],
+    "construction": [
+        "structure",
+        "construction"
+    ],
+    "table": [
+        "table"
+    ],
+    "cam\u00e9ra": [
+        "television camera",
+        "tv camera",
+        "camera"
+    ],
+    "chose": [
+        "thing"
+    ],
+    "rail": [
+        "track",
+        "rail",
+        "rails",
+        "runway"
+    ],
+    "train": [
+        "train",
+        "railroad train"
+    ],
+    "mur": [
+        "wall"
+    ],
+    "montre": [
+        "watch",
+        "ticker"
+    ],
+    "puits": [
+        "well"
+    ],
+    "roue": [
+        "wheel"
+    ],
+    "fouet": [
+        "whip"
+    ],
+    "vitrine": [
+        "window"
+    ],
+    "grillage": [
+        "wire"
+    ],
+    "humour": [
+        "humor",
+        "humour",
+        "sense of humor",
+        "sense of humour"
+    ],
+    "forme": [
+        "shape",
+        "form",
+        "cast"
+    ],
+    "oeil": [
+        "expression",
+        "look",
+        "aspect",
+        "facial expression",
+        "face"
+    ],
+    "qualit\u00e9": [
+        "quality"
+    ],
+    "conduite": [
+        "behavior",
+        "demeanor",
+        "demeanour",
+        "behaviour",
+        "conduct",
+        "deportment"
+    ],
+    "propri\u00e9t\u00e9": [
+        "property"
+    ],
+    "odeur": [
+        "smell",
+        "olfactory property",
+        "aroma",
+        "odor",
+        "odour",
+        "scent"
+    ],
+    "son": [
+        "sound"
+    ],
+    "silence": [
+        "silence",
+        "quiet"
+    ],
+    "amas": [
+        "mass"
+    ],
+    "poids": [
+        "weight"
+    ],
+    "force": [
+        "strength",
+        "force",
+        "forcefulness"
+    ],
+    "distance": [
+        "distance"
+    ],
+    "niveau": [
+        "degree",
+        "grade",
+        "level"
+    ],
+    "taille": [
+        "size"
+    ],
+    "masse": [
+        "mass",
+        "bulk",
+        "volume"
+    ],
+    "quantit\u00e9": [
+        "amount"
+    ],
+    "augmentation": [
+        "increase",
+        "increment"
+    ],
+    "limite": [
+        "limit",
+        "bound",
+        "boundary"
+    ],
+    "port\u00e9e": [
+        "range",
+        "scope",
+        "reach",
+        "orbit",
+        "compass",
+        "ambit"
+    ],
+    "valeur": [
+        "value"
+    ],
+    "but": [
+        "purpose",
+        "function",
+        "role",
+        "use"
+    ],
+    "prix": [
+        "price",
+        "cost",
+        "toll"
+    ],
+    "puissance": [
+        "power",
+        "powerfulness"
+    ],
+    "contr\u00f4le": [
+        "control"
+    ],
+    "autorit\u00e9": [
+        "authority",
+        "authorization",
+        "authorisation",
+        "potency",
+        "dominance",
+        "say-so"
+    ],
+    "peau": [
+        "skin",
+        "tegument",
+        "cutis"
+    ],
+    "poil": [
+        "hair",
+        "pilus"
+    ],
+    "cheveux": [
+        "hair"
+    ],
+    "os": [
+        "bone",
+        "os"
+    ],
+    "dent": [
+        "tooth"
+    ],
+    "muscle": [
+        "muscle",
+        "musculus"
+    ],
+    "langue": [
+        "tongue",
+        "lingua",
+        "glossa",
+        "clapper"
+    ],
+    "bouche": [
+        "mouth",
+        "oral cavity",
+        "oral fissure",
+        "rima oris"
+    ],
+    "l\u00e8vre": [
+        "lip"
+    ],
+    "oeil": [
+        "eye",
+        "oculus",
+        "optic"
+    ],
+    "oreille": [
+        "ear"
+    ],
+    "c\u0153ur": [
+        "heart",
+        "pump",
+        "ticker"
+    ],
+    "estomac": [
+        "stomach",
+        "tummy",
+        "tum",
+        "breadbasket"
+    ],
+    "sang": [
+        "blood"
+    ],
+    "nerf": [
+        "nerve",
+        "nervus"
+    ],
+    "cerveau": [
+        "brain",
+        "encephalon"
+    ],
+    "esprit": [
+        "head",
+        "caput"
+    ],
+    "cou": [
+        "neck",
+        "cervix"
+    ],
+    "gorge": [
+        "throat",
+        "pharynx"
+    ],
+    "tronc": [
+        "body",
+        "torso",
+        "trunk"
+    ],
+    "poitrine": [
+        "chest",
+        "thorax",
+        "pectus"
+    ],
+    "dos": [
+        "back",
+        "dorsum"
+    ],
+    "patte": [
+        "leg"
+    ],
+    "pied": [
+        "foot",
+        "human foot",
+        "pes"
+    ],
+    "bras": [
+        "arm"
+    ],
+    "main": [
+        "hand",
+        "manus",
+        "mitt",
+        "paw"
+    ],
+    "doigt": [
+        "finger"
+    ],
+    "pouce": [
+        "thumb",
+        "pollex"
+    ],
+    "genou": [
+        "knee",
+        "knee joint",
+        "human knee",
+        "articulatio genus",
+        "genu"
+    ],
+    "orteil": [
+        "toe"
+    ],
+    "ongle": [
+        "nail"
+    ],
+    "nez": [
+        "nose",
+        "olfactory organ"
+    ],
+    "menton": [
+        "chin",
+        "mentum"
+    ],
+    "visage": [
+        "face",
+        "human face"
+    ],
+    "esprit": [
+        "mind",
+        "head",
+        "brain",
+        "psyche",
+        "nous"
+    ],
+    "invention": [
+        "invention",
+        "innovation",
+        "excogitation",
+        "conception",
+        "design"
+    ],
+    "m\u00e9moire": [
+        "memory",
+        "retention",
+        "retentiveness",
+        "retentivity"
+    ],
+    "volont\u00e9": [
+        "will",
+        "volition"
+    ],
+    "go\u00fbt": [
+        "taste",
+        "gustation",
+        "sense of taste",
+        "gustatory modality"
+    ],
+    "int\u00e9r\u00eat": [
+        "interest",
+        "involvement"
+    ],
+    "probl\u00e8me": [
+        "trouble",
+        "problem"
+    ],
+    "doute": [
+        "doubt",
+        "uncertainty",
+        "incertitude",
+        "dubiety",
+        "doubtfulness",
+        "dubiousness"
+    ],
+    "attention": [
+        "attention",
+        "attending"
+    ],
+    "douceur": [
+        "sweet",
+        "sweetness",
+        "sugariness"
+    ],
+    "bruit": [
+        "noise",
+        "dissonance",
+        "racket"
+    ],
+    "note": [
+        "grade",
+        "mark",
+        "score"
+    ],
+    "exp\u00e9rience": [
+        "experience"
+    ],
+    "fait": [
+        "fact"
+    ],
+    "sp\u00e9cimen": [
+        "example",
+        "illustration",
+        "instance",
+        "representative"
+    ],
+    "pens\u00e9e": [
+        "idea",
+        "thought"
+    ],
+    "d\u00e9cision": [
+        "decision",
+        "determination",
+        "conclusion"
+    ],
+    "genre": [
+        "kind",
+        "sort",
+        "form",
+        "variety"
+    ],
+    "marque": [
+        "brand",
+        "make"
+    ],
+    "r\u00e8glement": [
+        "rule",
+        "regulation"
+    ],
+    "secteur": [
+        "part",
+        "section",
+        "division"
+    ],
+    "essence": [
+        "center",
+        "kernel",
+        "substance",
+        "core",
+        "centre",
+        "essence",
+        "gist",
+        "heart",
+        "heart and soul",
+        "inwardness",
+        "marrow",
+        "meat",
+        "nub",
+        "pith",
+        "sum",
+        "nitty-gritty"
+    ],
+    "souvenir": [
+        "memory"
+    ],
+    "opinion": [
+        "opinion",
+        "sentiment",
+        "persuasion",
+        "view",
+        "thought"
+    ],
+    "foi": [
+        "religion",
+        "faith",
+        "religious belief"
+    ],
+    "espoir": [
+        "promise",
+        "hope"
+    ],
+    "volont\u00e9": [
+        "will"
+    ],
+    "formation": [
+        "education"
+    ],
+    "th\u00e9orie": [
+        "theory"
+    ],
+    "discipline": [
+        "discipline",
+        "subject",
+        "subject area",
+        "subject field",
+        "field",
+        "field of study",
+        "study",
+        "bailiwick"
+    ],
+    "science": [
+        "science",
+        "scientific discipline"
+    ],
+    "page": [
+        "page"
+    ],
+    "journal": [
+        "newspaper",
+        "paper"
+    ],
+    "langage": [
+        "language",
+        "linguistic communication"
+    ],
+    "mot": [
+        "word"
+    ],
+    "nom": [
+        "name"
+    ],
+    "\u00e9criture": [
+        "writing"
+    ],
+    "formulaire": [
+        "form"
+    ],
+    "liste": [
+        "list",
+        "listing"
+    ],
+    "comptes": [
+        "invoice",
+        "bill",
+        "account"
+    ],
+    "billet": [
+        "ticket"
+    ],
+    "l\u00e9gislation": [
+        "law"
+    ],
+    "testament": [
+        "will",
+        "testament"
+    ],
+    "lettre": [
+        "letter",
+        "missive"
+    ],
+    "nouvelles": [
+        "news",
+        "intelligence",
+        "tidings",
+        "word"
+    ],
+    "argument": [
+        "argument",
+        "statement"
+    ],
+    "secret": [
+        "secret"
+    ],
+    "d\u00e9claration": [
+        "statement"
+    ],
+    "r\u00e9ponse": [
+        "answer",
+        "reply",
+        "response"
+    ],
+    "note": [
+        "note",
+        "annotation",
+        "notation"
+    ],
+    "arrangement": [
+        "agreement",
+        "understanding"
+    ],
+    "tarif postal": [
+        "stamp",
+        "postage",
+        "postage stamp"
+    ],
+    "ligne": [
+        "line"
+    ],
+    "signe": [
+        "sign"
+    ],
+    "lettre": [
+        "letter",
+        "letter of the alphabet",
+        "alphabetic character"
+    ],
+    "note": [
+        "note",
+        "musical note",
+        "tone"
+    ],
+    "sourire": [
+        "smile",
+        "smiling",
+        "grin",
+        "grinning"
+    ],
+    "musique": [
+        "music"
+    ],
+    "chanson": [
+        "song",
+        "vocal"
+    ],
+    "rythme": [
+        "rhythm",
+        "beat",
+        "musical rhythm"
+    ],
+    "voix": [
+        "voice",
+        "vocalization",
+        "vocalisation",
+        "vocalism",
+        "phonation",
+        "vox"
+    ],
+    "appel": [
+        "cry",
+        "outcry",
+        "call",
+        "yell",
+        "shout",
+        "vociferation"
+    ],
+    "discussion": [
+        "discussion",
+        "give-and-take",
+        "word"
+    ],
+    "proposition": [
+        "suggestion",
+        "proposition",
+        "proffer"
+    ],
+    "ordre": [
+        "order"
+    ],
+    "querelle": [
+        "argument",
+        "controversy",
+        "contention",
+        "contestation",
+        "disputation",
+        "disceptation",
+        "tilt",
+        "arguing"
+    ],
+    "offre": [
+        "offer",
+        "offering"
+    ],
+    "demande": [
+        "request",
+        "asking"
+    ],
+    "question": [
+        "question",
+        "inquiry",
+        "enquiry",
+        "query",
+        "interrogation"
+    ],
+    "examen": [
+        "examination",
+        "exam",
+        "test"
+    ],
+    "oui": [
+        "yes"
+    ],
+    "non": [
+        "no"
+    ],
+    "objection": [
+        "protest",
+        "protestation"
+    ],
+    "r\u00e9clame": [
+        "advertisement",
+        "ad",
+        "advertizement",
+        "advertising",
+        "advertizing",
+        "advert"
+    ],
+    "marque": [
+        "marker",
+        "marking",
+        "mark"
+    ],
+    "\u00e9preuve": [
+        "experience"
+    ],
+    "r\u00e9compense": [
+        "wages",
+        "reward",
+        "payoff"
+    ],
+    "mouvement": [
+        "movement",
+        "motion"
+    ],
+    "naissance": [
+        "birth",
+        "nativity",
+        "nascency",
+        "nascence"
+    ],
+    "cause": [
+        "cause"
+    ],
+    "secousse": [
+        "jolt",
+        "jar",
+        "jounce",
+        "shock"
+    ],
+    "vague": [
+        "wave",
+        "moving ridge"
+    ],
+    "bond": [
+        "jump",
+        "leap",
+        "saltation"
+    ],
+    "arr\u00eat": [
+        "stop",
+        "halt"
+    ],
+    "courant": [
+        "current",
+        "stream"
+    ],
+    "toucher": [
+        "touch",
+        "touching"
+    ],
+    "dommage": [
+        "damage",
+        "harm",
+        "impairment"
+    ],
+    "salve": [
+        "outburst",
+        "burst",
+        "flare-up"
+    ],
+    "concours": [
+        "contest",
+        "competition"
+    ],
+    "partie": [
+        "match"
+    ],
+    "plaisir": [
+        "pleasure",
+        "pleasance"
+    ],
+    "surprise": [
+        "surprise"
+    ],
+    "choc": [
+        "shock",
+        "daze",
+        "stupor"
+    ],
+    "peur": [
+        "fear",
+        "fearfulness",
+        "fright"
+    ],
+    "amour": [
+        "love"
+    ],
+    "haine": [
+        "hate",
+        "hatred"
+    ],
+    "repas": [
+        "meal",
+        "repast"
+    ],
+    "soupe": [
+        "soup"
+    ],
+    "g\u00e2teau": [
+        "cake"
+    ],
+    "viande": [
+        "meat"
+    ],
+    "pain": [
+        "bread",
+        "breadstuff",
+        "staff of life"
+    ],
+    "pomme de terre": [
+        "potato",
+        "white potato",
+        "Irish potato",
+        "murphy",
+        "spud",
+        "tater"
+    ],
+    "pomme": [
+        "apple"
+    ],
+    "orange": [
+        "orange"
+    ],
+    "riz": [
+        "rice"
+    ],
+    "sel": [
+        "salt",
+        "table salt",
+        "common salt"
+    ],
+    "lait": [
+        "milk"
+    ],
+    "beurre": [
+        "butter"
+    ],
+    "fromage": [
+        "cheese"
+    ],
+    "boisson": [
+        "drink",
+        "beverage",
+        "drinkable",
+        "potable"
+    ],
+    "vin": [
+        "wine",
+        "vino"
+    ],
+    "lait fouett\u00e9": [
+        "milkshake",
+        "milk shake",
+        "shake"
+    ],
+    "soci\u00e9t\u00e9": [
+        "society"
+    ],
+    "famille": [
+        "family",
+        "family unit"
+    ],
+    "sexe": [
+        "sex"
+    ],
+    "paquet": [
+        "package",
+        "bundle",
+        "packet",
+        "parcel"
+    ],
+    "organisation": [
+        "organization",
+        "organisation"
+    ],
+    "gouvernement": [
+        "government",
+        "authorities",
+        "regime"
+    ],
+    "soci\u00e9t\u00e9": [
+        "company"
+    ],
+    "affaire": [
+        "business",
+        "concern",
+        "business concern",
+        "business organization",
+        "business organisation"
+    ],
+    "religion": [
+        "religion",
+        "faith",
+        "organized religion"
+    ],
+    "nation": [
+        "nation",
+        "land",
+        "country"
+    ],
+    "peuple": [
+        "public",
+        "populace",
+        "world"
+    ],
+    "arm\u00e9e": [
+        "army",
+        "regular army",
+        "ground forces"
+    ],
+    "orchestre": [
+        "band",
+        "dance band",
+        "dance orchestra"
+    ],
+    "table": [
+        "table",
+        "tabular array"
+    ],
+    "comit\u00e9": [
+        "committee",
+        "commission"
+    ],
+    "syst\u00e8me": [
+        "system",
+        "scheme"
+    ],
+    "torrent": [
+        "stream",
+        "flow",
+        "current"
+    ],
+    "pays": [
+        "country",
+        "state",
+        "land"
+    ],
+    "bord": [
+        "edge",
+        "border"
+    ],
+    "fin": [
+        "end",
+        "terminal"
+    ],
+    "champ": [
+        "field"
+    ],
+    "devant": [
+        "front",
+        "front end",
+        "forepart"
+    ],
+    "emplacement": [
+        "position",
+        "place"
+    ],
+    "place": [
+        "seat",
+        "place"
+    ],
+    "c\u00f4t\u00e9": [
+        "side"
+    ],
+    "endroit": [
+        "place",
+        "topographic point",
+        "spot"
+    ],
+    "ville": [
+        "town"
+    ],
+    "tendance": [
+        "trend",
+        "tendency"
+    ],
+    "copeau": [
+        "bit",
+        "chip",
+        "flake",
+        "fleck",
+        "scrap"
+    ],
+    "nuage": [
+        "cloud"
+    ],
+    "l\u00e9zarde": [
+        "crack",
+        "cleft",
+        "crevice",
+        "fissure",
+        "scissure"
+    ],
+    "Terre": [
+        "Earth",
+        "earth",
+        "world",
+        "globe"
+    ],
+    "grain": [
+        "grain"
+    ],
+    "trou": [
+        "hole"
+    ],
+    "\u00eele": [
+        "island"
+    ],
+    "terre": [
+        "land",
+        "dry land",
+        "earth",
+        "ground",
+        "solid ground",
+        "terra firma"
+    ],
+    "lune": [
+        "Moon",
+        "moon"
+    ],
+    "plaine": [
+        "plain",
+        "field",
+        "champaign"
+    ],
+    "fleuve": [
+        "river"
+    ],
+    "pierre": [
+        "stone",
+        "rock"
+    ],
+    "mer": [
+        "sea"
+    ],
+    "ciel": [
+        "sky"
+    ],
+    "source": [
+        "spring",
+        "fountain",
+        "outflow",
+        "outpouring",
+        "natural spring"
+    ],
+    "\u00e9toile": [
+        "star"
+    ],
+    "soleil": [
+        "sun",
+        "Sun"
+    ],
+    "expert": [
+        "expert"
+    ],
+    "femme": [
+        "female",
+        "female person"
+    ],
+    "m\u00e2le": [
+        "male",
+        "male person"
+    ],
+    "petit enfant": [
+        "baby",
+        "babe",
+        "infant"
+    ],
+    "ch\u00e9rie": [
+        "dear",
+        "beloved",
+        "dearest",
+        "honey",
+        "love"
+    ],
+    "fr\u00e8re": [
+        "brother",
+        "blood brother"
+    ],
+    "cuisinier": [
+        "cook"
+    ],
+    "fille": [
+        "daughter",
+        "girl"
+    ],
+    "directeur": [
+        "director",
+        "manager",
+        "managing director"
+    ],
+    "p\u00e8re": [
+        "father",
+        "male parent",
+        "begetter"
+    ],
+    "copain": [
+        "friend"
+    ],
+    "g\u00e9n\u00e9ral": [
+        "general",
+        "full general"
+    ],
+    "fille": [
+        "girl",
+        "miss",
+        "missy",
+        "young lady",
+        "young woman",
+        "fille"
+    ],
+    "juge": [
+        "judge",
+        "justice",
+        "jurist"
+    ],
+    "gar\u00e7on": [
+        "boy",
+        "male child"
+    ],
+    "homme": [
+        "man",
+        "adult male"
+    ],
+    "m\u00e8re": [
+        "mother",
+        "female parent"
+    ],
+    "propri\u00e9taire": [
+        "owner",
+        "possessor"
+    ],
+    "repr\u00e9sentant": [
+        "representative"
+    ],
+    "secr\u00e9taire": [
+        "secretary",
+        "secretarial assistant"
+    ],
+    "domestique": [
+        "servant",
+        "retainer"
+    ],
+    "soeur": [
+        "sister",
+        "sis"
+    ],
+    "fils": [
+        "son",
+        "boy"
+    ],
+    "femme": [
+        "woman",
+        "adult female"
+    ],
+    "cons\u00e9quence": [
+        "consequence",
+        "effect",
+        "outcome",
+        "result",
+        "event",
+        "issue",
+        "upshot"
+    ],
+    "r\u00e9action": [
+        "reaction"
+    ],
+    "mort": [
+        "death"
+    ],
+    "lumi\u00e8re": [
+        "light",
+        "visible light",
+        "visible radiation"
+    ],
+    "pluie": [
+        "rain",
+        "rainfall"
+    ],
+    "fum\u00e9e": [
+        "smoke",
+        "fume"
+    ],
+    "temps": [
+        "weather",
+        "weather condition",
+        "conditions",
+        "atmospheric condition"
+    ],
+    "vent": [
+        "wind",
+        "air current",
+        "current of air"
+    ],
+    "fleur": [
+        "flower"
+    ],
+    "herbe": [
+        "grass"
+    ],
+    "arbre": [
+        "tree"
+    ],
+    "racine": [
+        "root"
+    ],
+    "tige": [
+        "stem",
+        "stalk"
+    ],
+    "fruit": [
+        "fruit"
+    ],
+    "graine": [
+        "seed"
+    ],
+    "fruit \u00e0 coque": [
+        "nut"
+    ],
+    "feuille": [
+        "leaf",
+        "leafage",
+        "foliage"
+    ],
+    "branche": [
+        "branch"
+    ],
+    "propri\u00e9t\u00e9": [
+        "property",
+        "belongings",
+        "holding"
+    ],
+    "profit": [
+        "profit",
+        "net income",
+        "net",
+        "net profit",
+        "lucre",
+        "profits",
+        "earnings"
+    ],
+    "cadeau": [
+        "present"
+    ],
+    "paiement": [
+        "payment"
+    ],
+    "taxe": [
+        "tax",
+        "taxation",
+        "revenue enhancement"
+    ],
+    "int\u00e9r\u00eat": [
+        "interest"
+    ],
+    "tarif": [
+        "rate",
+        "charge per unit"
+    ],
+    "droit": [
+        "right"
+    ],
+    "assurance": [
+        "insurance"
+    ],
+    "argent": [
+        "money"
+    ],
+    "monnaie": [
+        "change"
+    ],
+    "billet": [
+        "banknote",
+        "bill",
+        "note",
+        "government note",
+        "bank bill",
+        "banker's bill",
+        "bank note",
+        "Federal Reserve note",
+        "greenback"
+    ],
+    "\u00e9volution": [
+        "evolution",
+        "development"
+    ],
+    "flamme": [
+        "fire",
+        "flame",
+        "flaming"
+    ],
+    "croissance": [
+        "increase",
+        "increment",
+        "growth"
+    ],
+    "marche": [
+        "operation",
+        "functioning",
+        "performance"
+    ],
+    "nombre": [
+        "number"
+    ],
+    "unit\u00e9": [
+        "unit",
+        "unit of measurement"
+    ],
+    "degr\u00e9": [
+        "degree"
+    ],
+    "carr\u00e9": [
+        "square",
+        "second power"
+    ],
+    "racine": [
+        "root"
+    ],
+    "pas": [
+        "step",
+        "footstep",
+        "pace",
+        "stride"
+    ],
+    "goutte": [
+        "drop",
+        "drib",
+        "driblet"
+    ],
+    "partie": [
+        "part",
+        "portion",
+        "component part",
+        "component",
+        "constituent"
+    ],
+    "d\u00e9tail": [
+        "detail",
+        "particular",
+        "item"
+    ],
+    "reste": [
+        "rest",
+        "remainder",
+        "balance",
+        "residual",
+        "residue",
+        "residuum"
+    ],
+    "direction": [
+        "direction"
+    ],
+    "nord": [
+        "north",
+        "due north",
+        "northward",
+        "N"
+    ],
+    "est": [
+        "east",
+        "due east",
+        "eastward",
+        "E"
+    ],
+    "sud": [
+        "south",
+        "due south",
+        "southward",
+        "S"
+    ],
+    "ouest": [
+        "west",
+        "due west",
+        "westward",
+        "W"
+    ],
+    "concurrence": [
+        "competition"
+    ],
+    "contraire": [
+        "opposite",
+        "reverse",
+        "contrary"
+    ],
+    "courbe": [
+        "curve",
+        "curved shape"
+    ],
+    "cercle": [
+        "circle"
+    ],
+    "rouleau": [
+        "coil",
+        "whorl",
+        "roll",
+        "curl",
+        "curlicue",
+        "ringlet",
+        "gyre",
+        "scroll"
+    ],
+    "carr\u00e9": [
+        "square",
+        "foursquare"
+    ],
+    "angle": [
+        "angle"
+    ],
+    "point": [
+        "point",
+        "dot"
+    ],
+    "condition": [
+        "condition",
+        "status"
+    ],
+    "compte": [
+        "account",
+        "business relationship"
+    ],
+    "compagnie": [
+        "company",
+        "companionship",
+        "fellowship",
+        "society"
+    ],
+    "sommet": [
+        "top",
+        "peak",
+        "summit",
+        "acme",
+        "height",
+        "elevation",
+        "pinnacle",
+        "superlative",
+        "meridian",
+        "tiptop"
+    ],
+    "existence": [
+        "existence",
+        "being",
+        "beingness"
+    ],
+    "ordre": [
+        "order"
+    ],
+    "paix": [
+        "peace"
+    ],
+    "guerre": [
+        "war",
+        "state of war"
+    ],
+    "\u00e9quilibre": [
+        "balance"
+    ],
+    "sommeil": [
+        "sleep",
+        "slumber"
+    ],
+    "maladie": [
+        "disease"
+    ],
+    "rhume": [
+        "cold",
+        "common cold"
+    ],
+    "douleur": [
+        "pain",
+        "hurting"
+    ],
+    "toux": [
+        "cough",
+        "coughing"
+    ],
+    "pouvoir": [
+        "dominance",
+        "ascendance",
+        "ascendence",
+        "ascendancy",
+        "ascendency",
+        "control"
+    ],
+    "domination": [
+        "dominion",
+        "rule"
+    ],
+    "besoin": [
+        "demand",
+        "need"
+    ],
+    "occasion": [
+        "chance",
+        "opportunity"
+    ],
+    "humidit\u00e9": [
+        "moisture",
+        "wet"
+    ],
+    "danger": [
+        "danger"
+    ],
+    "mat\u00e9riau": [
+        "material",
+        "stuff"
+    ],
+    "acide": [
+        "acid"
+    ],
+    "m\u00e9tal": [
+        "metallic element",
+        "metal"
+    ],
+    "or": [
+        "gold",
+        "Au",
+        "atomic number 79"
+    ],
+    "fer": [
+        "iron",
+        "Fe",
+        "atomic number 26"
+    ],
+    "plomb": [
+        "lead",
+        "Pb",
+        "atomic number 82"
+    ],
+    "argent": [
+        "silver",
+        "Ag",
+        "atomic number 47"
+    ],
+    "cuir": [
+        "leather"
+    ],
+    "acier": [
+        "steel"
+    ],
+    "produit chimique": [
+        "chemical",
+        "chemical substance"
+    ],
+    "charbon": [
+        "coal"
+    ],
+    "poussi\u00e8re": [
+        "dust"
+    ],
+    "air": [
+        "air"
+    ],
+    "haleine": [
+        "breath"
+    ],
+    "terre": [
+        "earth",
+        "ground"
+    ],
+    "eau": [
+        "water",
+        "H2O"
+    ],
+    "d\u00e9chets": [
+        "waste",
+        "waste material",
+        "waste matter",
+        "waste product"
+    ],
+    "gras": [
+        "fat"
+    ],
+    "verre": [
+        "glass"
+    ],
+    "glace": [
+        "ice",
+        "water ice"
+    ],
+    "encre": [
+        "ink"
+    ],
+    "liquide": [
+        "liquid"
+    ],
+    "huile": [
+        "oil"
+    ],
+    "papier": [
+        "paper"
+    ],
+    "p\u00e9trole": [
+        "oil",
+        "petroleum",
+        "crude oil",
+        "crude",
+        "rock oil",
+        "fossil oil"
+    ],
+    "couleur": [
+        "color",
+        "colour",
+        "coloring material",
+        "colouring material"
+    ],
+    "poudre": [
+        "powder",
+        "pulverization",
+        "pulverisation"
+    ],
+    "sable": [
+        "sand"
+    ],
+    "poison": [
+        "poison",
+        "toxicant",
+        "poisonous substance"
+    ],
+    "vapeur": [
+        "steam"
+    ],
+    "bois": [
+        "wood"
+    ],
+    "laine": [
+        "wool"
+    ],
+    "pr\u00e9sent": [
+        "present",
+        "nowadays"
+    ],
+    "pass\u00e9": [
+        "past",
+        "past times",
+        "yesteryear"
+    ],
+    "histoire": [
+        "history"
+    ],
+    "futur": [
+        "future",
+        "hereafter",
+        "futurity",
+        "time to come"
+    ],
+    "temps": [
+        "time",
+        "fourth dimension"
+    ],
+    "semaine": [
+        "week",
+        "calendar week"
+    ],
+    "journ\u00e9e": [
+        "day",
+        "twenty-four hours",
+        "twenty-four hour period",
+        "24-hour interval",
+        "solar day",
+        "mean solar day"
+    ],
+    "demain": [
+        "tomorrow"
+    ],
+    "matin": [
+        "morning",
+        "morn",
+        "morning time",
+        "forenoon"
+    ],
+    "nuit": [
+        "night",
+        "nighttime",
+        "dark"
+    ],
+    "an": [
+        "year",
+        "twelvemonth",
+        "yr"
+    ],
+    "mois": [
+        "month",
+        "calendar month"
+    ],
+    "heure": [
+        "hour",
+        "hr",
+        "60 minutes"
+    ],
+    "minute": [
+        "minute",
+        "min"
+    ],
+    "seconde": [
+        "second",
+        "sec",
+        "s"
+    ],
+    "automne": [
+        "autumn",
+        "fall"
+    ],
+    "printemps": [
+        "spring",
+        "springtime"
+    ],
+    "\u00e9t\u00e9": [
+        "summer",
+        "summertime"
+    ],
+    "hiver": [
+        "winter",
+        "wintertime"
+    ],
+    "quelque temps": [
+        "while",
+        "piece",
+        "spell",
+        "patch"
+    ],
+    "commencement": [
+        "beginning",
+        "commencement",
+        "first",
+        "outset",
+        "get-go",
+        "start",
+        "kickoff",
+        "starting time",
+        "showtime",
+        "offset"
+    ],
+    "phase": [
+        "phase",
+        "stage"
+    ],
+    "tousser": [
+        "cough"
+    ],
+    "sourire": [
+        "smile"
+    ],
+    "rire": [
+        "laugh",
+        "express joy",
+        "express mirth"
+    ],
+    "pleurer": [
+        "cry",
+        "weep"
+    ],
+    "blesser": [
+        "injure",
+        "wound"
+    ],
+    "modifier": [
+        "change",
+        "alter",
+        "modify"
+    ],
+    "arrondir": [
+        "round off",
+        "round down",
+        "round out",
+        "round"
+    ],
+    "devenir": [
+        "become",
+        "go",
+        "get"
+    ],
+    "augmenter": [
+        "increase"
+    ],
+    "contenir": [
+        "limit",
+        "restrict",
+        "restrain",
+        "trammel",
+        "bound",
+        "confine",
+        "throttle"
+    ],
+    "\u00e9craser": [
+        "crush"
+    ],
+    "d\u00e9buter": [
+        "begin",
+        "start",
+        "get down",
+        "get",
+        "start out",
+        "set about",
+        "set out",
+        "commence"
+    ],
+    "chauffer": [
+        "warm"
+    ],
+    "pr\u00e9parer": [
+        "prepare",
+        "fix",
+        "set up",
+        "ready",
+        "gear up",
+        "set"
+    ],
+    "terminer": [
+        "finish",
+        "complete"
+    ],
+    "laisser": [
+        "let"
+    ],
+    "d\u00e9velopper": [
+        "process",
+        "treat"
+    ],
+    "former": [
+        "train",
+        "develop",
+        "prepare",
+        "educate"
+    ],
+    "mesurer": [
+        "measure",
+        "mensurate",
+        "measure out"
+    ],
+    "classer": [
+        "classify",
+        "class",
+        "sort",
+        "assort",
+        "sort out",
+        "separate"
+    ],
+    "appr\u00e9cier": [
+        "rate",
+        "rank",
+        "range",
+        "order",
+        "grade",
+        "place"
+    ],
+    "estimer": [
+        "estimate",
+        "gauge",
+        "approximate",
+        "guess",
+        "judge"
+    ],
+    "douter": [
+        "doubt"
+    ],
+    "surprendre": [
+        "surprise"
+    ],
+    "ordonner": [
+        "order",
+        "tell",
+        "enjoin",
+        "say"
+    ],
+    "appeler": [
+        "request",
+        "bespeak",
+        "call for",
+        "quest"
+    ],
+    "pousser": [
+        "cause",
+        "induce",
+        "stimulate",
+        "have",
+        "get",
+        "make"
+    ],
+    "t\u00e9l\u00e9phoner": [
+        "call",
+        "telephone",
+        "call up",
+        "phone",
+        "ring"
+    ],
+    "ouvrir": [
+        "reply",
+        "answer",
+        "respond"
+    ],
+    "pr\u00e9senter": [
+        "introduce",
+        "present",
+        "acquaint"
+    ],
+    "protester": [
+        "protest"
+    ],
+    "crier": [
+        "shout",
+        "shout out",
+        "cry",
+        "call",
+        "yell",
+        "scream",
+        "holler",
+        "hollo",
+        "squall"
+    ],
+    "parler": [
+        "talk",
+        "speak",
+        "utter",
+        "mouth",
+        "verbalize",
+        "verbalise"
+    ],
+    "enregistrer": [
+        "record",
+        "tape"
+    ],
+    "dire": [
+        "say",
+        "tell",
+        "state"
+    ],
+    "appeler": [
+        "name",
+        "call"
+    ],
+    "envoyer": [
+        "send",
+        "mail",
+        "post"
+    ],
+    "jouer": [
+        "play"
+    ],
+    "lutter": [
+        "fight",
+        "contend",
+        "struggle"
+    ],
+    "vaincre": [
+        "beat",
+        "beat out",
+        "crush",
+        "shell",
+        "trounce",
+        "vanquish"
+    ],
+    "attaquer": [
+        "attack",
+        "assail",
+        "assault",
+        "set on"
+    ],
+    "tirer": [
+        "fire",
+        "open fire"
+    ],
+    "se servir de": [
+        "use",
+        "utilize",
+        "utilise",
+        "apply",
+        "employ"
+    ],
+    "boire": [
+        "drink",
+        "imbibe"
+    ],
+    "prendre": [
+        "take",
+        "get hold of"
+    ],
+    "cirer": [
+        "polish",
+        "smooth",
+        "smoothen",
+        "shine"
+    ],
+    "peler": [
+        "peel",
+        "skin",
+        "pare"
+    ],
+    "joindre": [
+        "join",
+        "bring together"
+    ],
+    "\u00e9galiser": [
+        "flush",
+        "level",
+        "even out",
+        "even"
+    ],
+    "coudre": [
+        "sew",
+        "run up",
+        "sew together",
+        "stitch"
+    ],
+    "fermer": [
+        "close",
+        "shut"
+    ],
+    "ouvrir": [
+        "open",
+        "open up"
+    ],
+    "fermer": [
+        "lock"
+    ],
+    "coup de pied": [
+        "kick"
+    ],
+    "baiser": [
+        "kiss",
+        "snog",
+        "buss",
+        "osculate"
+    ],
+    "mordre": [
+        "bite",
+        "seize with teeth"
+    ],
+    "tirer": [
+        "pull",
+        "draw",
+        "force"
+    ],
+    "poser": [
+        "put",
+        "set",
+        "place",
+        "pose",
+        "position",
+        "lay"
+    ],
+    "nettoyer": [
+        "clean",
+        "make clean"
+    ],
+    "laver": [
+        "wash",
+        "launder"
+    ],
+    "couper": [
+        "cut"
+    ],
+    "\u00e9craser": [
+        "crush",
+        "squash",
+        "squelch",
+        "mash",
+        "squeeze"
+    ],
+    "concevoir": [
+        "design",
+        "plan"
+    ],
+    "cuisiner": [
+        "cook"
+    ],
+    "copier": [
+        "copy",
+        "re-create"
+    ],
+    "labourer": [
+        "plow",
+        "plough",
+        "turn"
+    ],
+    "imprimer": [
+        "print",
+        "impress"
+    ],
+    "d\u00e9tester": [
+        "hate",
+        "detest"
+    ],
+    "aimer": [
+        "love"
+    ],
+    "aimer": [
+        "like"
+    ],
+    "esp\u00e9rer": [
+        "hope"
+    ],
+    "vouloir": [
+        "desire",
+        "want"
+    ],
+    "aller": [
+        "travel",
+        "go",
+        "move",
+        "locomote"
+    ],
+    "venir": [
+        "come",
+        "come up"
+    ],
+    "bouger": [
+        "move",
+        "displace"
+    ],
+    "arr\u00eater": [
+        "stop",
+        "halt"
+    ],
+    "pousser": [
+        "push",
+        "force"
+    ],
+    "marcher": [
+        "walk"
+    ],
+    "tourner": [
+        "turn"
+    ],
+    "courir": [
+        "run"
+    ],
+    "voler": [
+        "fly",
+        "wing"
+    ],
+    "bondir": [
+        "jump",
+        "leap",
+        "bound",
+        "spring"
+    ],
+    "tomber": [
+        "fall"
+    ],
+    "lever": [
+        "lift",
+        "raise",
+        "elevate",
+        "get up",
+        "bring up"
+    ],
+    "atterrir": [
+        "land",
+        "set down"
+    ],
+    "conduire": [
+        "lead",
+        "take",
+        "direct",
+        "conduct",
+        "guide"
+    ],
+    "sentir": [
+        "feel",
+        "sense"
+    ],
+    "embaumer": [
+        "smell"
+    ],
+    "sentir": [
+        "smell"
+    ],
+    "sentir": [
+        "smell"
+    ],
+    "voir": [
+        "see"
+    ],
+    "regarder": [
+        "look"
+    ],
+    "sembler": [
+        "look",
+        "appear",
+        "seem"
+    ],
+    "regarder": [
+        "watch",
+        "see",
+        "view",
+        "catch",
+        "take in"
+    ],
+    "go\u00fbt": [
+        "taste",
+        "savor",
+        "savour"
+    ],
+    "donner": [
+        "give"
+    ],
+    "avoir": [
+        "have",
+        "have got",
+        "hold"
+    ],
+    "poss\u00e9der": [
+        "own",
+        "have",
+        "possess"
+    ],
+    "attraper": [
+        "get",
+        "acquire"
+    ],
+    "commercer": [
+        "trade",
+        "merchandise"
+    ],
+    "profit": [
+        "profit",
+        "turn a profit"
+    ],
+    "offrir": [
+        "offer"
+    ],
+    "agir": [
+        "act",
+        "move"
+    ],
+    "lib\u00e9rer": [
+        "free",
+        "liberate",
+        "release",
+        "unloose",
+        "unloosen",
+        "loose"
+    ],
+    "contr\u00f4ler": [
+        "control",
+        "command"
+    ],
+    "honorer": [
+        "respect",
+        "honor",
+        "honour",
+        "abide by",
+        "observe"
+    ],
+    "diviser": [
+        "divide",
+        "split",
+        "split up",
+        "separate",
+        "dissever",
+        "carve up"
+    ],
+    "tenter": [
+        "try",
+        "seek",
+        "attempt",
+        "essay",
+        "assay"
+    ],
+    "interroger": [
+        "test",
+        "prove",
+        "try",
+        "try out",
+        "examine",
+        "essay"
+    ],
+    "aider": [
+        "help",
+        "assist",
+        "aid"
+    ],
+    "soutenir": [
+        "support",
+        "back up"
+    ],
+    "rendre": [
+        "make",
+        "do"
+    ],
+    "attraper": [
+        "trick",
+        "flim-flam",
+        "play a joke on",
+        "play tricks",
+        "fob",
+        "fox",
+        "pull a fast one on",
+        "play a trick on"
+    ],
+    "empoisonner": [
+        "poison"
+    ],
+    "gouverner": [
+        "rule",
+        "govern"
+    ],
+    "finir": [
+        "end",
+        "stop",
+        "finish",
+        "terminate",
+        "cease"
+    ],
+    "durer": [
+        "survive",
+        "last",
+        "live",
+        "live on",
+        "go",
+        "endure",
+        "hold up",
+        "hold out"
+    ],
+    "avoir besoin de": [
+        "need",
+        "necessitate",
+        "ask",
+        "postulate",
+        "require",
+        "take",
+        "involve",
+        "call for",
+        "demand"
+    ],
+    "comprendre": [
+        "embrace",
+        "encompass",
+        "comprehend",
+        "cover"
+    ],
+    "aller": [
+        "match",
+        "fit",
+        "correspond",
+        "check",
+        "jibe",
+        "gibe",
+        "tally",
+        "agree"
+    ],
+    "d\u00e9passer": [
+        "exceed",
+        "transcend",
+        "overstep",
+        "pass",
+        "go past",
+        "top"
+    ],
+    "garder": [
+        "keep",
+        "maintain",
+        "hold"
+    ],
+    "capable": [
+        "able"
+    ],
+    "gluant": [
+        "sticky",
+        "gluey",
+        "glutinous",
+        "gummy",
+        "mucilaginous",
+        "pasty",
+        "viscid",
+        "viscous"
+    ],
+    "mort": [
+        "dead"
+    ],
+    "en col\u00e8re": [
+        "angry"
+    ],
+    "automatique": [
+        "automatic"
+    ],
+    "\u00e9veill\u00e9": [
+        "awake"
+    ],
+    "premier": [
+        "front"
+    ],
+    "beau": [
+        "beautiful"
+    ],
+    "cass\u00e9": [
+        "broken"
+    ],
+    "certain": [
+        "certain",
+        "sure"
+    ],
+    "bleu": [
+        "blue",
+        "bluish",
+        "blueish"
+    ],
+    "marron": [
+        "brown",
+        "brownish",
+        "chocolate-brown",
+        "dark-brown"
+    ],
+    "vert": [
+        "green",
+        "greenish",
+        "light-green",
+        "dark-green"
+    ],
+    "orange": [
+        "orange",
+        "orangish"
+    ],
+    "rouge": [
+        "red",
+        "reddish",
+        "ruddy",
+        "blood-red",
+        "carmine",
+        "cerise",
+        "cherry",
+        "cherry-red",
+        "crimson",
+        "ruby",
+        "ruby-red",
+        "scarlet"
+    ],
+    "jaune": [
+        "yellow",
+        "yellowish",
+        "xanthous"
+    ],
+    "gris": [
+        "gray",
+        "grey",
+        "greyish",
+        "grayish"
+    ],
+    "noir": [
+        "black"
+    ],
+    "blanc": [
+        "white"
+    ],
+    "clair": [
+        "bright",
+        "brilliant",
+        "vivid"
+    ],
+    "noir": [
+        "dark"
+    ],
+    "propre": [
+        "clean"
+    ],
+    "sale": [
+        "dirty",
+        "soiled",
+        "unclean"
+    ],
+    "d\u00e9gag\u00e9": [
+        "clear"
+    ],
+    "avis\u00e9": [
+        "sharp",
+        "astute",
+        "shrewd"
+    ],
+    "loin": [
+        "far"
+    ],
+    "proche": [
+        "near",
+        "close",
+        "nigh"
+    ],
+    "courant": [
+        "common"
+    ],
+    "sp\u00e9cial": [
+        "special",
+        "especial",
+        "exceptional",
+        "particular"
+    ],
+    "total": [
+        "full",
+        "total"
+    ],
+    "clairsem\u00e9": [
+        "sparse",
+        "thin"
+    ],
+    "exact": [
+        "correct",
+        "right"
+    ],
+    "incorrect": [
+        "wrong",
+        "incorrect"
+    ],
+    "actuel": [
+        "current"
+    ],
+    "fin": [
+        "delicate"
+    ],
+    "d\u00e9licat": [
+        "fragile",
+        "delicate",
+        "frail"
+    ],
+    "d\u00e9termin\u00e9": [
+        "fixed"
+    ],
+    "difficile": [
+        "difficult",
+        "hard"
+    ],
+    "simple": [
+        "simple",
+        "elementary",
+        "uncomplicated",
+        "unproblematic"
+    ],
+    "t\u00f4t": [
+        "early"
+    ],
+    "tard": [
+        "late"
+    ],
+    "\u00e9gal": [
+        "equal"
+    ],
+    "\u00e9gal": [
+        "even",
+        "fifty-fifty"
+    ],
+    "plat": [
+        "flat",
+        "level",
+        "plane"
+    ],
+    "pair": [
+        "even"
+    ],
+    "bon march\u00e9": [
+        "cheap",
+        "inexpensive"
+    ],
+    "bizarre": [
+        "strange",
+        "unusual"
+    ],
+    "courant": [
+        "usual",
+        "common"
+    ],
+    "lent": [
+        "slow"
+    ],
+    "gros": [
+        "fat"
+    ],
+    "gros": [
+        "fat",
+        "fatty"
+    ],
+    "dernier": [
+        "last"
+    ],
+    "rigide": [
+        "rigid",
+        "stiff"
+    ],
+    "\u00e9tranger": [
+        "foreign",
+        "strange"
+    ],
+    "pauvre": [
+        "poor",
+        "hapless",
+        "miserable",
+        "misfortunate",
+        "pathetic",
+        "piteous",
+        "pitiable",
+        "pitiful",
+        "wretched"
+    ],
+    "libre": [
+        "free"
+    ],
+    "fr\u00e9quent": [
+        "frequent"
+    ],
+    "plein": [
+        "full"
+    ],
+    "g\u00e9n\u00e9ral": [
+        "general"
+    ],
+    "sage": [
+        "good"
+    ],
+    "merveilleux": [
+        "great",
+        "bang-up",
+        "bully",
+        "corking",
+        "cracking",
+        "dandy",
+        "groovy",
+        "keen",
+        "neat",
+        "nifty",
+        "not bad",
+        "peachy",
+        "slap-up",
+        "swell",
+        "smashing"
+    ],
+    "mauvais": [
+        "bad"
+    ],
+    "triste": [
+        "sad",
+        "deplorable",
+        "distressing",
+        "lamentable",
+        "pitiful",
+        "sorry"
+    ],
+    "soudain": [
+        "sudden"
+    ],
+    "heureux": [
+        "happy"
+    ],
+    "solide": [
+        "firm",
+        "solid"
+    ],
+    "mou": [
+        "soft"
+    ],
+    "l\u00e9ger": [
+        "light"
+    ],
+    "bas": [
+        "low"
+    ],
+    "sous": [
+        "under",
+        "nether"
+    ],
+    "froid": [
+        "cold"
+    ],
+    "barbare": [
+        "cruel",
+        "barbarous",
+        "brutal",
+        "fell",
+        "roughshod",
+        "savage",
+        "vicious"
+    ],
+    "petit": [
+        "little",
+        "fiddling",
+        "footling",
+        "lilliputian",
+        "niggling",
+        "piddling",
+        "piffling",
+        "petty",
+        "picayune",
+        "trivial"
+    ],
+    "conscient": [
+        "conscious",
+        "witting"
+    ],
+    "triste": [
+        "sad"
+    ],
+    "gentil": [
+        "kind"
+    ],
+    "grand": [
+        "great"
+    ],
+    "petit": [
+        "small",
+        "little"
+    ],
+    "minuscule": [
+        "minute",
+        "infinitesimal"
+    ],
+    "dissemblable": [
+        "different",
+        "unlike",
+        "dissimilar"
+    ],
+    "probable": [
+        "probable",
+        "likely"
+    ],
+    "court": [
+        "short"
+    ],
+    "serr\u00e9": [
+        "tight"
+    ],
+    "fort": [
+        "loud"
+    ],
+    "m\u00e2le": [
+        "male"
+    ],
+    "f\u00e9minin": [
+        "female"
+    ],
+    "mari\u00e9": [
+        "married"
+    ],
+    "m\u00e2le": [
+        "male",
+        "manful",
+        "manlike",
+        "manly",
+        "virile"
+    ],
+    "militaire": [
+        "military"
+    ],
+    "m\u00e9tallique": [
+        "metal",
+        "metallic"
+    ],
+    "beaucoup": [
+        "much"
+    ],
+    "naturel": [
+        "natural"
+    ],
+    "faux": [
+        "fake",
+        "false",
+        "faux",
+        "imitation",
+        "simulated"
+    ],
+    "n\u00e9cessaire": [
+        "necessary"
+    ],
+    "normal": [
+        "normal"
+    ],
+    "vieux": [
+        "old"
+    ],
+    "jeune": [
+        "young",
+        "immature"
+    ],
+    "ouvert": [
+        "open",
+        "unfastened"
+    ],
+    "ferm\u00e9": [
+        "closed",
+        "shut",
+        "unopen"
+    ],
+    "clandestin": [
+        "secret",
+        "clandestine",
+        "cloak-and-dagger",
+        "hole-and-corner",
+        "hugger-mugger",
+        "hush-hush",
+        "surreptitious",
+        "undercover",
+        "underground"
+    ],
+    "gratuit": [
+        "free",
+        "complimentary",
+        "costless",
+        "gratis",
+        "gratuitous"
+    ],
+    "parall\u00e8le": [
+        "parallel"
+    ],
+    "pass\u00e9": [
+        "past"
+    ],
+    "pr\u00e9sent": [
+        "present"
+    ],
+    "futur": [
+        "future"
+    ],
+    "complet": [
+        "complete",
+        "consummate"
+    ],
+    "priv\u00e9": [
+        "private"
+    ],
+    "physique": [
+        "physical"
+    ],
+    "fin": [
+        "sharp",
+        "acuate",
+        "acute",
+        "needlelike"
+    ],
+    "politique": [
+        "political"
+    ],
+    "possible": [
+        "possible"
+    ],
+    "tranquille": [
+        "quiet"
+    ],
+    "silencieux": [
+        "silent",
+        "soundless",
+        "still"
+    ],
+    "pr\u00eat": [
+        "ready"
+    ],
+    "r\u00e9gulier": [
+        "regular"
+    ],
+    "responsable": [
+        "responsible"
+    ],
+    "droit": [
+        "right"
+    ],
+    "gauche": [
+        "left"
+    ],
+    "rond": [
+        "round",
+        "circular"
+    ],
+    "carr\u00e9": [
+        "square"
+    ],
+    "s\u00fbr": [
+        "safe"
+    ],
+    "m\u00eame": [
+        "same"
+    ],
+    "autre": [
+        "other"
+    ],
+    "diff\u00e9rent": [
+        "different"
+    ],
+    "neuf": [
+        "new"
+    ],
+    "oppos\u00e9": [
+        "opposite"
+    ],
+    "distinct": [
+        "separate"
+    ],
+    "s\u00e9rieux": [
+        "serious"
+    ],
+    "commun": [
+        "common",
+        "mutual"
+    ],
+    "deuxi\u00e8me": [
+        "second",
+        "2nd",
+        "2d"
+    ],
+    "expert": [
+        "skilful",
+        "adept",
+        "expert",
+        "good",
+        "practiced",
+        "proficient",
+        "skillful"
+    ],
+    "lisse": [
+        "smooth"
+    ],
+    "violent": [
+        "rough",
+        "unsmooth"
+    ],
+    "solide": [
+        "solid"
+    ],
+    "liquide": [
+        "liquid"
+    ],
+    "facultatif": [
+        "any",
+        "whatever",
+        "whatsoever"
+    ],
+    "aucun": [
+        "no"
+    ],
+    "tout": [
+        "all"
+    ],
+    "tout": [
+        "every"
+    ],
+    "droit": [
+        "straight"
+    ],
+    "fort": [
+        "strong"
+    ],
+    "sujet": [
+        "subject",
+        "dependent"
+    ],
+    "sucr\u00e9": [
+        "sweet"
+    ],
+    "haut": [
+        "tall"
+    ],
+    "amer": [
+        "bitter"
+    ],
+    "mince": [
+        "thin"
+    ],
+    "\u00e9pais": [
+        "thick"
+    ],
+    "fatigu\u00e9": [
+        "tired"
+    ],
+    "vrai": [
+        "true"
+    ],
+    "bas": [
+        "down"
+    ],
+    "violent": [
+        "violent"
+    ],
+    "chaud": [
+        "warm"
+    ],
+    "malade": [
+        "ill",
+        "sick"
+    ],
+    "mouill\u00e9": [
+        "wet"
+    ],
+    "sec": [
+        "dry"
+    ],
+    "en bonne sant\u00e9": [
+        "healthy",
+        "salubrious",
+        "good for you"
+    ],
+    "large": [
+        "wide",
+        "broad"
+    ],
+    "\u00e9troit": [
+        "narrow"
+    ],
+    "sage": [
+        "wise"
+    ],
+    "chimique": [
+        "chemical",
+        "chemic"
+    ],
+    "m\u00e9dical": [
+        "medical"
+    ],
+    "\u00e9lectrique": [
+        "electric",
+        "electrical"
+    ],
+    "juste": [
+        "simply",
+        "merely",
+        "just",
+        "only",
+        "but"
+    ],
+    "approximativement": [
+        "approximately",
+        "about",
+        "close to",
+        "just about",
+        "some",
+        "roughly",
+        "more or less",
+        "around",
+        "or so"
+    ],
+    "seul": [
+        "entirely",
+        "exclusively",
+        "solely",
+        "alone",
+        "only"
+    ],
+    "bien": [
+        "well",
+        "good"
+    ],
+    "voire": [
+        "even"
+    ],
+    "comme": [
+        "equally",
+        "as",
+        "every bit"
+    ],
+    "non": [
+        "not",
+        "non"
+    ],
+    "cependant": [
+        "however",
+        "nevertheless",
+        "withal",
+        "still",
+        "yet",
+        "all the same",
+        "even so",
+        "nonetheless",
+        "notwithstanding"
+    ],
+    "encore": [
+        "still"
+    ],
+    "tr\u00e8s": [
+        "very",
+        "really",
+        "real",
+        "rattling"
+    ],
+    "encore": [
+        "again",
+        "once again",
+        "once more",
+        "over again"
+    ],
+    "imm\u00e9diatement": [
+        "immediately",
+        "instantly",
+        "straightaway",
+        "straight off",
+        "directly",
+        "now",
+        "right away",
+        "at once",
+        "forthwith",
+        "like a shot"
+    ],
+    "actuellement": [
+        "now",
+        "at present"
+    ],
+    "directement": [
+        "directly",
+        "straight",
+        "direct"
+    ],
+    "avant": [
+        "before",
+        "earlier"
+    ],
+    "ensuite": [
+        "later",
+        "after",
+        "subsequently",
+        "afterwards",
+        "afterward",
+        "later on"
+    ],
+    "presque": [
+        "almost",
+        "about",
+        "most",
+        "nearly",
+        "near",
+        "nigh",
+        "virtually",
+        "well-nigh"
+    ],
+    "avant": [
+        "forward",
+        "forwards",
+        "frontward",
+        "frontwards",
+        "forrad",
+        "forrard"
+    ],
+    "bas": [
+        "down",
+        "downwards",
+        "downward",
+        "downwardly"
+    ],
+    "haut": [
+        "up",
+        "upwards",
+        "upward",
+        "upwardly"
+    ],
+    "peu": [
+        "little"
+    ],
+    "tard": [
+        "late",
+        "belatedly",
+        "tardily"
+    ],
+    "t\u00f4t": [
+        "early",
+        "early on"
+    ],
+    "abord": [
+        "first",
+        "firstly",
+        "foremost",
+        "first of all",
+        "first off"
+    ],
+    "que voici": [
+        "here"
+    ],
+    "ici": [
+        "here",
+        "hither"
+    ],
+    "l\u00e0": [
+        "there",
+        "at that place",
+        "in that location"
+    ],
+    "ensemble": [
+        "together"
+    ],
+    "alors": [
+        "then",
+        "so",
+        "and so",
+        "and then"
+    ],
+    "assez": [
+        "enough",
+        "plenty"
+    ],
+    "ainsi": [
+        "so"
+    ],
+    "tel": [
+        "such"
+    ],
+    "lentement": [
+        "slowly",
+        "slow",
+        "easy",
+        "tardily"
+    ],
+    "par": [
+        "by",
+        "past"
+    ],
+    "demain": [
+        "tomorrow"
+    ],
+    "entre": [
+        "between",
+        "betwixt"
+    ],
+    "dans": [
+        "in",
+        "inwards",
+        "inward"
+    ],
+    "chimie": [
+        "chemistry",
+        "chemical science"
+    ],
+    "R\u00e9publique f\u00e9d\u00e9rale d'Allemagne": [
+        "Germany",
+        "Federal Republic of Germany",
+        "Deutschland",
+        "FRG"
+    ],
+    "R\u00e9publique fran\u00e7aise": [
+        "France",
+        "French Republic"
+    ],
+    "R\u00e9publique de l'Inde": [
+        "India",
+        "Republic of India",
+        "Bharat"
+    ],
+    "d\u00e9cembre": [
+        "December",
+        "Dec"
+    ],
+    "octobre": [
+        "October",
+        "Oct"
+    ],
+    "novembre": [
+        "November",
+        "Nov"
+    ],
+    "avril": [
+        "April",
+        "Apr"
+    ],
+    "juin": [
+        "June"
+    ],
+    "juillet": [
+        "July"
+    ],
+    "janvier": [
+        "January",
+        "Jan"
+    ],
+    "Italie": [
+        "Italy",
+        "Italian Republic",
+        "Italia"
+    ],
+    "f\u00e9vrier": [
+        "February",
+        "Feb"
+    ],
+    "Royaume d'Espagne": [
+        "Spain",
+        "Kingdom of Spain",
+        "Espana"
+    ],
+    "lion": [
+        "lion",
+        "king of beasts",
+        "Panthera leo"
+    ],
+    "bi\u00e8re": [
+        "beer"
+    ],
+    "Japon": [
+        "Japan",
+        "Nippon",
+        "Nihon"
+    ],
+    "sucre": [
+        "sugar",
+        "refined sugar"
+    ],
+    "\u00c9tats-Unis": [
+        "United States",
+        "United States of America",
+        "America",
+        "the States",
+        "US",
+        "U.S.",
+        "USA",
+        "U.S.A."
+    ],
+    "lundi": [
+        "Monday",
+        "Mon"
+    ],
+    "biologie": [
+        "biology",
+        "biological science"
+    ],
+    "dictionnaire": [
+        "dictionary",
+        "lexicon"
+    ],
+    "vendredi": [
+        "Friday",
+        "Fri"
+    ],
+    "jeudi": [
+        "Thursday",
+        "Th"
+    ],
+    "caf\u00e9": [
+        "coffee",
+        "java"
+    ],
+    "mercredi": [
+        "Wednesday",
+        "Midweek",
+        "Wed"
+    ],
+    "Britain": [
+        "United Kingdom",
+        "UK",
+        "U.K.",
+        "Britain",
+        "United Kingdom of Great Britain and Northern Ireland",
+        "Great Britain"
+    ],
+    "dimanche": [
+        "Sunday",
+        "Lord's Day",
+        "Dominicus",
+        "Sun"
+    ],
+    "th\u00e9": [
+        "tea"
+    ],
+    "\u00e9nergie": [
+        "energy",
+        "free energy"
+    ],
+    "r\u00e9publique": [
+        "democracy",
+        "republic",
+        "commonwealth"
+    ],
+    "R\u00e9publique tch\u00e8que": [
+        "Czech Republic"
+    ],
+    "lac": [
+        "lake"
+    ],
+    "chocolat": [
+        "chocolate"
+    ],
+    "allemand": [
+        "German",
+        "High German",
+        "German language"
+    ],
+    "\u00e9l\u00e9phant": [
+        "elephant"
+    ],
+    "automobile": [
+        "car",
+        "auto",
+        "automobile",
+        "machine",
+        "motorcar"
+    ],
+    "th\u00e9\u00e2tre": [
+        "theater",
+        "theatre",
+        "house"
+    ],
+    "m\u00e9decin": [
+        "doctor",
+        "doc",
+        "physician",
+        "MD",
+        "Dr.",
+        "medico"
+    ],
+    "culture": [
+        "culture",
+        "civilization",
+        "civilisation"
+    ],
+    "tennis": [
+        "tennis",
+        "lawn tennis"
+    ],
+    "grande ville": [
+        "city",
+        "metropolis",
+        "urban center"
+    ],
+    "trois": [
+        "three",
+        "3",
+        "iii"
+    ],
+    "banque": [
+        "bank",
+        "depository financial institution",
+        "banking concern",
+        "banking company"
+    ],
+    "po\u00e9sie": [
+        "poetry",
+        "poesy",
+        "verse"
+    ],
+    "nature": [
+        "nature"
+    ],
+    "huit": [
+        "eight",
+        "8",
+        "viii"
+    ],
+    "dix": [
+        "ten",
+        "10",
+        "x"
+    ],
+    "com\u00e9dien": [
+        "actor",
+        "histrion",
+        "player",
+        "thespian",
+        "role player"
+    ],
+    "mille": [
+        "thousand",
+        "one thousand",
+        "1000",
+        "M",
+        "K",
+        "chiliad",
+        "G",
+        "grand",
+        "thou",
+        "yard"
+    ],
+    "jeu": [
+        "game"
+    ],
+    "gros": [
+        "big",
+        "large"
+    ],
+    "autobus": [
+        "bus",
+        "autobus",
+        "coach",
+        "charabanc",
+        "double-decker",
+        "jitney",
+        "motorbus",
+        "motorcoach",
+        "omnibus",
+        "passenger vehicle"
+    ],
+    "a\u00e9rodrome": [
+        "airport",
+        "airdrome",
+        "aerodrome",
+        "drome"
+    ],
+    "plage": [
+        "beach"
+    ],
+    "ch\u00e2teau": [
+        "castle"
+    ],
+    "bois": [
+        "forest",
+        "wood",
+        "woods"
+    ],
+    "six": [
+        "six",
+        "6",
+        "vi",
+        "half dozen",
+        "half-dozen"
+    ],
+    "ours": [
+        "bear"
+    ],
+    "hindi": [
+        "Hindi"
+    ],
+    "technologie": [
+        "technology",
+        "engineering"
+    ],
+    "neuf": [
+        "nine",
+        "9",
+        "ix"
+    ],
+    "bec": [
+        "beak",
+        "bill",
+        "neb",
+        "nib",
+        "pecker"
+    ],
+    "samedi": [
+        "Saturday",
+        "Sabbatum",
+        "Sat"
+    ],
+    "si\u00e8cle": [
+        "century"
+    ],
+    "miroir": [
+        "mirror"
+    ],
+    "\u00e9l\u00e9ment chimique": [
+        "chemical element",
+        "element"
+    ],
+    "police": [
+        "police",
+        "police force",
+        "constabulary",
+        "law"
+    ],
+    "Chine": [
+        "China",
+        "People's Republic of China",
+        "mainland China",
+        "Communist China",
+        "Red China",
+        "PRC",
+        "Cathay"
+    ],
+    "sant\u00e9": [
+        "health",
+        "wellness"
+    ],
+    "chaise": [
+        "chair"
+    ],
+    "vie": [
+        "life"
+    ],
+    "ma\u00eetre": [
+        "teacher",
+        "instructor"
+    ],
+    "million": [
+        "million",
+        "1000000",
+        "one thousand thousand",
+        "meg"
+    ],
+    "mati\u00e8re": [
+        "matter"
+    ],
+    "roi": [
+        "king",
+        "male monarch",
+        "Rex"
+    ],
+    "capitale": [
+        "capital"
+    ],
+    "population": [
+        "population"
+    ],
+    "soir": [
+        "evening",
+        "eve",
+        "even",
+        "eventide"
+    ],
+    "corde": [
+        "rope"
+    ],
+    "manger": [
+        "eat"
+    ],
+    "g\u00e8ne": [
+        "gene",
+        "cistron",
+        "factor"
+    ],
+    "\u00e2ge": [
+        "age"
+    ],
+    "ordinateur": [
+        "computer",
+        "computing machine",
+        "computing device",
+        "data processor",
+        "electronic computer",
+        "information processing system"
+    ],
+    "mus\u00e9e": [
+        "museum"
+    ],
+    "cinq": [
+        "five",
+        "5",
+        "v"
+    ],
+    "h\u00f4tel": [
+        "hotel"
+    ],
+    "un": [
+        "one",
+        "1",
+        "i",
+        "ane"
+    ],
+    "\u00e9tudiant": [
+        "student",
+        "pupil",
+        "educatee"
+    ],
+    "accident": [
+        "accident"
+    ],
+    "anglais": [
+        "English",
+        "English language"
+    ],
+    "\u00e9crivain": [
+        "writer",
+        "author"
+    ],
+    "tapis": [
+        "carpet",
+        "rug",
+        "carpeting"
+    ],
+    "soldat": [
+        "soldier"
+    ],
+    "musicien": [
+        "musician",
+        "instrumentalist",
+        "player"
+    ],
+    "neige": [
+        "snow"
+    ],
+    "t\u00e9l\u00e9phone mobile": [
+        "cellphone",
+        "cellular telephone",
+        "cellular phone",
+        "cell",
+        "mobile phone"
+    ],
+    "base-ball": [
+        "baseball",
+        "baseball game"
+    ],
+    "gens": [
+        "people"
+    ],
+    "mari": [
+        "husband",
+        "hubby",
+        "married man"
+    ],
+    "femme": [
+        "wife",
+        "married woman"
+    ],
+    "sujet": [
+        "subject",
+        "topic",
+        "theme"
+    ],
+    "danger": [
+        "risk",
+        "hazard",
+        "jeopardy",
+        "peril",
+        "endangerment"
+    ],
+    "aussi": [
+        "too",
+        "besides",
+        "also",
+        "likewise",
+        "as well"
+    ],
+    "s\u00e9rie": [
+        "set"
+    ],
+    "usine": [
+        "factory",
+        "mill",
+        "manufacturing plant",
+        "manufactory"
+    ],
+    "village": [
+        "village",
+        "small town",
+        "settlement"
+    ],
+    "anniversaire": [
+        "birthday"
+    ],
+    "rien": [
+        "nothing",
+        "nil",
+        "nix",
+        "nada",
+        "null",
+        "aught",
+        "cipher",
+        "cypher",
+        "goose egg",
+        "naught",
+        "zero",
+        "zilch",
+        "zip",
+        "zippo"
+    ],
+    "charge": [
+        "charge",
+        "electric charge"
+    ],
+    "programme": [
+        "program",
+        "programme",
+        "computer program",
+        "computer programme"
+    ],
+    "\u00e9lection": [
+        "election"
+    ],
+    "adresse": [
+        "address"
+    ],
+    "annonce": [
+        "announcement",
+        "proclamation",
+        "annunciation",
+        "declaration"
+    ],
+    "rapide": [
+        "fast"
+    ],
+    "grand-p\u00e8re": [
+        "grandfather",
+        "gramps",
+        "granddad",
+        "grandad",
+        "granddaddy",
+        "grandpa"
+    ],
+    "m\u00e9tier": [
+        "occupation",
+        "business",
+        "job",
+        "line of work",
+        "line"
+    ],
+    "conseil": [
+        "advice"
+    ],
+    "d\u00eener": [
+        "lunch",
+        "luncheon",
+        "tiffin",
+        "dejeuner"
+    ],
+    "direction": [
+        "management",
+        "direction"
+    ],
+    "pellicule": [
+        "movie",
+        "film",
+        "picture",
+        "moving picture",
+        "moving-picture show",
+        "motion picture",
+        "motion-picture show",
+        "picture show",
+        "pic",
+        "flick"
+    ],
+    "trente": [
+        "thirty",
+        "30",
+        "xxx"
+    ],
+    "orchestre": [
+        "orchestra"
+    ],
+    "invit\u00e9": [
+        "guest",
+        "invitee"
+    ],
+    "phrase": [
+        "sentence"
+    ],
+    "concert": [
+        "concert"
+    ],
+    "date": [
+        "date",
+        "day of the month"
+    ],
+    "courrier": [
+        "mail",
+        "mail service",
+        "postal service",
+        "post"
+    ],
+    "dix-huit": [
+        "eighteen",
+        "18",
+        "xviii"
+    ],
+    "treize": [
+        "thirteen",
+        "13",
+        "xiii"
+    ],
+    "quarante": [
+        "forty",
+        "40",
+        "xl",
+        "twoscore"
+    ],
+    "onze": [
+        "eleven",
+        "11",
+        "xi"
+    ],
+    "soixante": [
+        "sixty",
+        "60",
+        "lx",
+        "threescore"
+    ],
+    "saison": [
+        "season"
+    ],
+    "\u00e9tat": [
+        "state"
+    ],
+    "ministre": [
+        "minister",
+        "government minister"
+    ],
+    "plan": [
+        "plan",
+        "program",
+        "programme"
+    ],
+    "maison": [
+        "home",
+        "place"
+    ],
+    "\u00e9crire": [
+        "write"
+    ],
+    "toujours": [
+        "always",
+        "ever",
+        "e'er"
+    ],
+    "cravate": [
+        "tie",
+        "necktie"
+    ],
+    "quatre": [
+        "four",
+        "4",
+        "iv"
+    ],
+    "information": [
+        "information",
+        "info"
+    ],
+    "langage": [
+        "speech",
+        "speech communication",
+        "spoken communication",
+        "spoken language",
+        "language",
+        "voice communication",
+        "oral communication"
+    ],
+    "employ\u00e9": [
+        "worker"
+    ],
+    "tribunal": [
+        "court",
+        "tribunal",
+        "judicature"
+    ],
+    "quatre-vingts": [
+        "eighty",
+        "80",
+        "lxxx",
+        "fourscore"
+    ],
+    "lire": [
+        "read"
+    ],
+    "front": [
+        "forehead",
+        "brow"
+    ],
+    "commettant": [
+        "customer",
+        "client"
+    ],
+    "hui": [
+        "today"
+    ],
+    "demande": [
+        "wish",
+        "wishing",
+        "want"
+    ],
+    "affaire": [
+        "case",
+        "instance",
+        "example"
+    ],
+    "entrevue": [
+        "interview"
+    ],
+    "enveloppe": [
+        "envelope"
+    ],
+    "garage": [
+        "garage"
+    ],
+    "marin": [
+        "sailor",
+        "crewman"
+    ],
+    "colline": [
+        "hill"
+    ],
+    "quatorze": [
+        "fourteen",
+        "14",
+        "xiv"
+    ],
+    "cellule": [
+        "cell"
+    ],
+    "bient\u00f4t": [
+        "soon",
+        "shortly",
+        "presently",
+        "before long"
+    ],
+    "demander": [
+        "ask",
+        "inquire",
+        "enquire"
+    ],
+    "mariage": [
+        "marriage",
+        "matrimony",
+        "union",
+        "spousal relationship",
+        "wedlock"
+    ],
+    "recherche": [
+        "research"
+    ],
+    "apr\u00e8s-midi": [
+        "afternoon"
+    ],
+    "m\u00e9thode": [
+        "method"
+    ],
+    "contrat": [
+        "contract"
+    ],
+    "peut-\u00eatre": [
+        "possibly",
+        "perchance",
+        "perhaps",
+        "maybe",
+        "mayhap",
+        "peradventure"
+    ],
+    "fa\u00e7on": [
+        "manner",
+        "mode",
+        "style",
+        "way",
+        "fashion"
+    ],
+    "pourcentage": [
+        "percent",
+        "percentage",
+        "per centum",
+        "pct"
+    ],
+    "chanter": [
+        "sing"
+    ],
+    "passager": [
+        "passenger",
+        "rider"
+    ],
+    "journaliste": [
+        "journalist"
+    ],
+    "vente": [
+        "sale"
+    ],
+    "porte": [
+        "gate"
+    ],
+    "mariage": [
+        "wedding",
+        "marriage",
+        "marriage ceremony"
+    ],
+    "sauce": [
+        "sauce"
+    ],
+    "seize": [
+        "sixteen",
+        "16",
+        "xvi"
+    ],
+    "soixante-dix": [
+        "seventy",
+        "70",
+        "lxx"
+    ],
+    "salade": [
+        "salad"
+    ],
+    "corps simple": [
+        "component",
+        "constituent",
+        "element",
+        "factor",
+        "ingredient"
+    ],
+    "style": [
+        "style"
+    ],
+    "\u00e9ducation": [
+        "education"
+    ],
+    "douche": [
+        "shower"
+    ],
+    "jeter": [
+        "throw"
+    ],
+    "poser": [
+        "sit",
+        "sit down"
+    ],
+    "moment": [
+        "moment",
+        "mo",
+        "minute",
+        "second",
+        "bit"
+    ],
+    "prononciation": [
+        "pronunciation"
+    ],
+    "altitude": [
+        "height",
+        "altitude"
+    ],
+    "cuisine": [
+        "kitchen"
+    ],
+    "proc\u00e9dure": [
+        "procedure",
+        "process"
+    ],
+    "acheter": [
+        "buy",
+        "purchase"
+    ],
+    "ch\u00e8que": [
+        "check",
+        "bank check",
+        "cheque"
+    ],
+    "projet": [
+        "project",
+        "projection"
+    ],
+    "diff\u00e9rence": [
+        "difference"
+    ],
+    "revenu": [
+        "income"
+    ],
+    "placard": [
+        "cupboard",
+        "closet"
+    ],
+    "succ\u00e8s": [
+        "success"
+    ],
+    "petit d\u00e9jeuner": [
+        "breakfast"
+    ],
+    "quatre-vingt-dix": [
+        "ninety",
+        "90",
+        "xc"
+    ],
+    "passeport": [
+        "passport"
+    ],
+    "frais": [
+        "fresh"
+    ],
+    "stupide": [
+        "stupid"
+    ],
+    "instant": [
+        "moment",
+        "minute",
+        "second",
+        "instant"
+    ],
+    "choix": [
+        "choice",
+        "selection",
+        "option",
+        "pick"
+    ],
+    "d\u00e9j\u00e0": [
+        "already"
+    ],
+    "sept": [
+        "seven",
+        "7",
+        "vii"
+    ],
+    "enseigner": [
+        "teach",
+        "learn",
+        "instruct"
+    ],
+    "artiste": [
+        "artist",
+        "creative person"
+    ],
+    "accepter": [
+        "accept",
+        "take",
+        "have"
+    ],
+    "service": [
+        "department",
+        "section"
+    ],
+    "mobilier": [
+        "furniture",
+        "piece of furniture",
+        "article of furniture"
+    ],
+    "moiti\u00e9": [
+        "half",
+        "one-half"
+    ],
+    "avantage": [
+        "advantage",
+        "vantage"
+    ],
+    "cin\u00e9ma": [
+        "cinema",
+        "movie theater",
+        "movie theatre",
+        "movie house",
+        "picture palace"
+    ],
+    "politique": [
+        "policy"
+    ],
+    "parc": [
+        "park",
+        "commons",
+        "common",
+        "green"
+    ],
+    "quinze": [
+        "fifteen",
+        "15",
+        "xv"
+    ],
+    "pression": [
+        "pressure",
+        "pressure level",
+        "force per unit area"
+    ],
+    "lourd": [
+        "heavy"
+    ],
+    "changement": [
+        "change",
+        "alteration",
+        "modification"
+    ],
+    "donn\u00e9es": [
+        "data",
+        "information"
+    ],
+    "minuit": [
+        "midnight"
+    ],
+    "pause": [
+        "pause",
+        "intermission",
+        "break",
+        "interruption",
+        "suspension"
+    ],
+    "visiter": [
+        "visit",
+        "see"
+    ],
+    "produit": [
+        "product",
+        "production"
+    ],
+    "patient": [
+        "patient"
+    ],
+    "au-dessus de": [
+        "above",
+        "higher up",
+        "in a higher place",
+        "to a higher place"
+    ],
+    "mille": [
+        "thousand",
+        "one thousand",
+        "1000",
+        "m",
+        "k"
+    ],
+    "colle": [
+        "glue",
+        "gum",
+        "mucilage"
+    ],
+    "cinquante": [
+        "fifty",
+        "50",
+        "l"
+    ],
+    "pilote": [
+        "pilot",
+        "airplane pilot"
+    ],
+    "crit\u00e8re": [
+        "standard",
+        "criterion",
+        "measure",
+        "touchstone"
+    ],
+    "classe": [
+        "class",
+        "form",
+        "grade",
+        "course"
+    ],
+    "fr\u00e9quemment": [
+        "often",
+        "frequently",
+        "oftentimes",
+        "oft",
+        "ofttimes"
+    ],
+    "proposer": [
+        "suggest",
+        "propose",
+        "advise"
+    ],
+    "costume": [
+        "clothing",
+        "article of clothing",
+        "vesture",
+        "wear",
+        "wearable",
+        "habiliment"
+    ],
+    "exactement": [
+        "exactly",
+        "precisely",
+        "just"
+    ],
+    "travail": [
+        "job",
+        "task",
+        "chore"
+    ],
+    "int\u00e9rieur": [
+        "inside",
+        "within"
+    ],
+    "visite": [
+        "visit"
+    ],
+    "vendre": [
+        "sell"
+    ],
+    "rive": [
+        "bank"
+    ],
+    "comprendre": [
+        "understand"
+    ],
+    "toilettes": [
+        "toilet",
+        "lavatory",
+        "lav",
+        "can",
+        "john",
+        "privy",
+        "bathroom"
+    ],
+    "accusation": [
+        "complaint",
+        "charge"
+    ],
+    "r\u00e9gion": [
+        "region",
+        "part"
+    ],
+    "poitrine": [
+        "chest",
+        "breast"
+    ],
+    "raison": [
+        "reason",
+        "ground"
+    ],
+    "b\u00e2tir": [
+        "build",
+        "construct",
+        "make"
+    ],
+    "facile": [
+        "easy"
+    ],
+    "dix-neuf": [
+        "nineteen",
+        "19",
+        "xix"
+    ],
+    "service": [
+        "service"
+    ],
+    "club": [
+        "club",
+        "social club",
+        "society",
+        "guild",
+        "gild",
+        "lodge",
+        "order"
+    ],
+    "attendre": [
+        "expect",
+        "look",
+        "await",
+        "wait"
+    ],
+    "formation": [
+        "training",
+        "preparation",
+        "grooming"
+    ],
+    "r\u00e9ellement": [
+        "really",
+        "actually"
+    ],
+    "morceau": [
+        "piece"
+    ],
+    "refuser": [
+        "refuse",
+        "reject",
+        "pass up",
+        "turn down",
+        "decline"
+    ],
+    "montrer": [
+        "show",
+        "demo",
+        "exhibit",
+        "present",
+        "demonstrate"
+    ],
+    "attendre": [
+        "wait",
+        "hold off",
+        "hold back"
+    ],
+    "comparer": [
+        "compare"
+    ],
+    "arriver": [
+        "happen",
+        "hap",
+        "go on",
+        "pass off",
+        "occur",
+        "pass",
+        "fall out",
+        "come about",
+        "take place"
+    ],
+    "championnat": [
+        "championship",
+        "title"
+    ],
+    "\u00e9quipe": [
+        "team",
+        "squad"
+    ],
+    "golf": [
+        "golf",
+        "golf game"
+    ],
+    "type": [
+        "type"
+    ],
+    "conseil": [
+        "council"
+    ],
+    "dangereux": [
+        "dangerous",
+        "unsafe"
+    ],
+    "mensonge": [
+        "lie",
+        "prevarication"
+    ],
+    "chanteur": [
+        "singer",
+        "vocalist",
+        "vocalizer",
+        "vocaliser"
+    ],
+    "sujet": [
+        "matter",
+        "affair",
+        "thing"
+    ],
+    "titre": [
+        "title"
+    ],
+    "magazine": [
+        "magazine",
+        "mag"
+    ],
+    "policier": [
+        "policeman",
+        "police officer",
+        "officer"
+    ],
+    "\u00e9tudier": [
+        "study"
+    ],
+    "ennuyeux": [
+        "boring",
+        "deadening",
+        "dull",
+        "ho-hum",
+        "irksome",
+        "slow",
+        "tedious",
+        "tiresome",
+        "wearisome"
+    ],
+    "parfois": [
+        "sometimes"
+    ],
+    "bureau": [
+        "desk"
+    ],
+    "danser": [
+        "dance",
+        "trip the light fantastic",
+        "trip the light fantastic toe"
+    ],
+    "perdre": [
+        "lose"
+    ],
+    "trouver": [
+        "find",
+        "regain"
+    ],
+    "voisin": [
+        "neighbor",
+        "neighbour"
+    ],
+    "recevoir": [
+        "receive",
+        "have"
+    ],
+    "expliquer": [
+        "explain",
+        "explicate"
+    ],
+    "\u00e9conomie": [
+        "economy",
+        "economic system"
+    ],
+    "maintenant": [
+        "now"
+    ],
+    "chambre \u00e0 coucher": [
+        "bedroom",
+        "sleeping room",
+        "sleeping accommodation",
+        "chamber",
+        "bedchamber"
+    ],
+    "d\u00e9cider": [
+        "decide",
+        "make up one's mind",
+        "determine"
+    ],
+    "politicien": [
+        "politician",
+        "politico",
+        "pol",
+        "political leader"
+    ],
+    "po\u00e8me": [
+        "poem",
+        "verse form"
+    ],
+    "humain": [
+        "human"
+    ],
+    "d\u00e9crire": [
+        "describe",
+        "depict",
+        "draw"
+    ],
+    "menu": [
+        "menu",
+        "bill of fare",
+        "card",
+        "carte du jour",
+        "carte"
+    ],
+    "international": [
+        "international"
+    ],
+    "vacances": [
+        "holiday",
+        "vacation"
+    ],
+    "exister": [
+        "exist",
+        "be"
+    ],
+    "r\u00e9aliser": [
+        "achieve",
+        "accomplish",
+        "attain",
+        "reach"
+    ],
+    "action": [
+        "action"
+    ],
+    "capital": [
+        "capital",
+        "working capital"
+    ],
+    "infirmi\u00e8re": [
+        "nurse"
+    ],
+    "\u00e9tablissement": [
+        "institution",
+        "establishment"
+    ],
+    "briser": [
+        "break"
+    ],
+    "int\u00e9ressant": [
+        "interesting"
+    ],
+    "hall": [
+        "hall",
+        "anteroom",
+        "antechamber",
+        "entrance hall",
+        "foyer",
+        "lobby",
+        "vestibule"
+    ],
+    "amical": [
+        "friendly"
+    ],
+    "photographe": [
+        "photographer",
+        "lensman"
+    ],
+    "vingt": [
+        "twenty",
+        "20",
+        "xx"
+    ],
+    "pratique": [
+        "practice"
+    ],
+    "vrai": [
+        "real",
+        "existent"
+    ],
+    "monde": [
+        "world"
+    ],
+    "suivre": [
+        "follow"
+    ],
+    "originel": [
+        "original"
+    ],
+    "rester": [
+        "stay",
+        "remain",
+        "rest"
+    ],
+    "peinture": [
+        "painting",
+        "picture"
+    ],
+    "chaud": [
+        "hot"
+    ],
+    "tuer": [
+        "kill"
+    ],
+    "affam\u00e9": [
+        "hungry"
+    ],
+    "somme": [
+        "total",
+        "sum",
+        "amount"
+    ],
+    "arriver": [
+        "arrive",
+        "make it",
+        "get in",
+        "go far"
+    ],
+    "\u00e9couter": [
+        "listen",
+        "hear",
+        "take heed"
+    ],
+    "jamais": [
+        "never"
+    ],
+    "surface": [
+        "surface"
+    ],
+    "supermarch\u00e9": [
+        "supermarket"
+    ],
+    "majorit\u00e9": [
+        "majority",
+        "bulk"
+    ],
+    "voler": [
+        "steal"
+    ],
+    "payer": [
+        "pay"
+    ],
+    "contenir": [
+        "contain",
+        "incorporate",
+        "comprise"
+    ],
+    "rayon": [
+        "section",
+        "subdivision"
+    ],
+    "repr\u00e9senter": [
+        "represent",
+        "stand for",
+        "correspond"
+    ],
+    "d\u00e9ces": [
+        "death",
+        "decease",
+        "expiry"
+    ],
+    "oublier": [
+        "forget"
+    ],
+    "vraiment": [
+        "really",
+        "truly",
+        "genuinely"
+    ],
+    "gourdin": [
+        "club"
+    ],
+    "principal": [
+        "main",
+        "chief",
+        "primary",
+        "principal",
+        "master"
+    ],
+    "remercier": [
+        "thank",
+        "give thanks"
+    ],
+    "se disputer": [
+        "argue",
+        "contend",
+        "debate",
+        "fence"
+    ],
+    "rencontrer": [
+        "meet",
+        "run into",
+        "encounter",
+        "run across",
+        "come across",
+        "see"
+    ],
+    "vite": [
+        "quickly",
+        "rapidly",
+        "speedily",
+        "chop-chop",
+        "apace"
+    ],
+    "union": [
+        "union"
+    ],
+    "mieux": [
+        "better"
+    ],
+    "p\u00e9riode": [
+        "period",
+        "time period",
+        "period of time"
+    ],
+    "donc": [
+        "therefore",
+        "hence",
+        "thence",
+        "thus",
+        "so"
+    ],
+    "environs": [
+        "environment",
+        "environs",
+        "surroundings",
+        "surround"
+    ],
+    "beau": [
+        "nice"
+    ],
+    "\u00e9conome": [
+        "economic",
+        "economical"
+    ],
+    "chef": [
+        "leader"
+    ],
+    "suivant": [
+        "following",
+        "next"
+    ],
+    "excellent": [
+        "excellent",
+        "first-class",
+        "fantabulous",
+        "splendid"
+    ],
+    "r\u00e9sider": [
+        "lie"
+    ],
+    "traiter": [
+        "treat",
+        "care for"
+    ],
+    "\u00e9conomiser": [
+        "save",
+        "preserve"
+    ],
+    "endurer": [
+        "suffer",
+        "endure"
+    ],
+    "s\u00e9r\u00e9nit\u00e9": [
+        "quiet",
+        "repose",
+        "placidity",
+        "serenity",
+        "tranquillity",
+        "tranquility"
+    ],
+    "continuer": [
+        "continue",
+        "go on",
+        "proceed",
+        "go along",
+        "keep"
+    ],
+    "capacit\u00e9": [
+        "ability",
+        "power"
+    ],
+    "vivant": [
+        "alive",
+        "live"
+    ],
+    "intelligent": [
+        "intelligent"
+    ],
+    "un": [
+        "another",
+        "some other"
+    ],
+    "sandwich": [
+        "sandwich"
+    ],
+    "responsabilit\u00e9": [
+        "responsibility",
+        "responsibleness"
+    ],
+    "vivre": [
+        "be",
+        "live"
+    ],
+    "veston": [
+        "jacket"
+    ],
+    "apprendre": [
+        "learn",
+        "larn",
+        "acquire"
+    ],
+    "campagne": [
+        "campaign",
+        "cause",
+        "crusade",
+        "drive",
+        "movement",
+        "effort"
+    ],
+    "joueur": [
+        "player",
+        "participant"
+    ],
+    "administrer": [
+        "manage",
+        "deal",
+        "care",
+        "handle"
+    ],
+    "national": [
+        "national"
+    ],
+    "particuli\u00e8rement": [
+        "particularly",
+        "peculiarly",
+        "especially",
+        "specially"
+    ],
+    "prouver": [
+        "prove",
+        "testify",
+        "bear witness",
+        "evidence",
+        "show"
+    ],
+    "personnel": [
+        "staff"
+    ],
+    "gagner": [
+        "win"
+    ],
+    "action": [
+        "share"
+    ],
+    "certainement": [
+        "surely",
+        "certainly",
+        "sure",
+        "for sure",
+        "for certain",
+        "sure enough",
+        "sure as shooting"
+    ],
+    "accord avec": [
+        "agree",
+        "hold",
+        "concur",
+        "concord"
+    ],
+    "industriel": [
+        "industrial"
+    ],
+    "d\u00e9sirer": [
+        "wish"
+    ],
+    "pause": [
+        "break",
+        "respite",
+        "recess",
+        "time out"
+    ],
+    "porter": [
+        "carry",
+        "transport"
+    ],
+    "mariage": [
+        "wedding",
+        "wedding ceremony",
+        "nuptials",
+        "hymeneals"
+    ],
+    "difficult\u00e9": [
+        "difficulty"
+    ],
+    "perdre": [
+        "lose"
+    ],
+    "universitaire": [
+        "university"
+    ],
+    "une fois": [
+        "once",
+        "one time",
+        "in one case"
+    ],
+    "salut": [
+        "hello",
+        "hullo",
+        "hi",
+        "howdy",
+        "how-do-you-do"
+    ],
+    "beaucoup": [
+        "many"
+    ],
+    "pardonner": [
+        "forgive"
+    ],
+    "concurrent": [
+        "competitor",
+        "rival",
+        "challenger",
+        "competition",
+        "contender"
+    ],
+    "reconna\u00eetre": [
+        "admit",
+        "acknowledge"
+    ],
+    "appuyer sur": [
+        "press"
+    ],
+    "firme": [
+        "firm",
+        "house",
+        "business firm"
+    ],
+    "entrer": [
+        "enter",
+        "come in",
+        "get into",
+        "get in",
+        "go into",
+        "go in",
+        "move into"
+    ],
+    "discuter": [
+        "discuss",
+        "hash out",
+        "talk over"
+    ],
+    "entendre": [
+        "hear"
+    ],
+    "d\u00e9tecter": [
+        "find",
+        "detect",
+        "observe",
+        "discover",
+        "notice"
+    ],
+    "permission": [
+        "leave",
+        "leave of absence"
+    ],
+    "l\u00e9gal": [
+        "legal"
+    ],
+    "chaque": [
+        "each"
+    ],
+    "proposition": [
+        "proposal"
+    ],
+    "m\u00e9tro": [
+        "subway",
+        "metro",
+        "tube",
+        "underground",
+        "subway system"
+    ],
+    "fournir": [
+        "supply",
+        "provide",
+        "render",
+        "furnish"
+    ],
+    "patient": [
+        "patient"
+    ],
+    "traitement": [
+        "treatment",
+        "handling"
+    ],
+    "rendez-vous": [
+        "date",
+        "appointment",
+        "engagement"
+    ],
+    "probablement": [
+        "probably",
+        "likely",
+        "in all likelihood",
+        "in all probability",
+        "belike"
+    ],
+    "arriver": [
+        "reach",
+        "make",
+        "attain",
+        "hit",
+        "arrive at",
+        "gain"
+    ],
+    "tout": [
+        "whole"
+    ],
+    "mettre en valeur": [
+        "enhance",
+        "heighten",
+        "raise"
+    ],
+    "partie": [
+        "party"
+    ],
+    "risquer le coup": [
+        "risk",
+        "gamble",
+        "chance",
+        "hazard",
+        "take chances",
+        "adventure",
+        "run a risk",
+        "take a chance"
+    ],
+    "ascension": [
+        "rise",
+        "rising",
+        "ascent",
+        "ascension"
+    ],
+    "\u00e9viter": [
+        "avoid"
+    ],
+    "mode": [
+        "vogue",
+        "trend",
+        "style"
+    ],
+    "divers": [
+        "various",
+        "diverse"
+    ],
+    "derri\u00e8re": [
+        "behind"
+    ],
+    "actrice": [
+        "actress"
+    ],
+    "\u00e9conomique": [
+        "economic"
+    ],
+    "fonder": [
+        "establish",
+        "found",
+        "plant",
+        "constitute",
+        "institute"
+    ],
+    "\u00e9l\u00e9gant": [
+        "stylish",
+        "fashionable"
+    ],
+    "royal": [
+        "royal",
+        "imperial",
+        "majestic",
+        "purple",
+        "regal"
+    ],
+    "sans appel": [
+        "final",
+        "last",
+        "concluding",
+        "terminal"
+    ],
+    "football": [
+        "football",
+        "football game"
+    ],
+    "weekend": [
+        "weekend"
+    ],
+    "question": [
+        "issue"
+    ],
+    "fran\u00e7ais": [
+        "French"
+    ],
+    "remplir": [
+        "fill",
+        "fill up",
+        "make full"
+    ],
+    "renvoyer": [
+        "reflect",
+        "reverberate"
+    ],
+    "solitaire": [
+        "alone",
+        "lone",
+        "lonely",
+        "solitary"
+    ],
+    "parler de": [
+        "mention",
+        "advert",
+        "bring up",
+        "cite",
+        "name",
+        "refer"
+    ],
+    "additionner": [
+        "add",
+        "add together"
+    ],
+    "permettre": [
+        "allow",
+        "let",
+        "permit"
+    ],
+    "enlever": [
+        "remove",
+        "take",
+        "take away",
+        "withdraw"
+    ],
+    "moderne": [
+        "modern"
+    ],
+    "r\u00e9cemment": [
+        "recently",
+        "late",
+        "lately",
+        "of late",
+        "latterly"
+    ],
+    "signaler": [
+        "report"
+    ],
+    "c\u00e9libataire": [
+        "single",
+        "unmarried"
+    ],
+    "frais": [
+        "cost"
+    ],
+    "apporter": [
+        "bring",
+        "convey",
+        "take"
+    ],
+    "sp\u00e9cifique": [
+        "specific"
+    ],
+    "personnel": [
+        "personal"
+    ],
+    "laid": [
+        "ugly"
+    ],
+    "destination": [
+        "finish",
+        "goal",
+        "destination"
+    ],
+    "l'un et l'autre": [
+        "both"
+    ],
+    "utilisateur": [
+        "user"
+    ],
+    "fructueux": [
+        "successful"
+    ],
+    "\u00e9lever": [
+        "raise",
+        "rear",
+        "bring up",
+        "nurture",
+        "parent"
+    ],
+    "seul": [
+        "single"
+    ],
+    "situation": [
+        "situation",
+        "state of affairs"
+    ],
+    "but": [
+        "goal"
+    ],
+    "r\u00e9v\u00e9ler": [
+        "reveal",
+        "unwrap",
+        "disclose",
+        "let on",
+        "bring out",
+        "discover",
+        "expose",
+        "divulge",
+        "break",
+        "give away",
+        "let out"
+    ],
+    "probl\u00e8me": [
+        "problem",
+        "job"
+    ],
+    "milieu": [
+        "environment"
+    ],
+    "retour": [
+        "return",
+        "homecoming"
+    ],
+    "rester": [
+        "stand",
+        "stand up"
+    ],
+    "dessiner": [
+        "trace",
+        "draw",
+        "line",
+        "describe",
+        "delineate"
+    ],
+    "impatient": [
+        "impatient"
+    ],
+    "relation": [
+        "relationship",
+        "human relationship"
+    ],
+    "coup": [
+        "hit",
+        "hitting",
+        "striking"
+    ],
+    "porter": [
+        "bear"
+    ],
+    "orthographe": [
+        "spelling"
+    ],
+    "\u00e9pouser": [
+        "marry",
+        "get married",
+        "wed",
+        "conjoin",
+        "hook up with",
+        "get hitched with",
+        "espouse"
+    ],
+    "troisi\u00e8me": [
+        "third",
+        "3rd",
+        "tertiary"
+    ],
+    "intention de": [
+        "mean",
+        "intend",
+        "think"
+    ],
+    "activit\u00e9": [
+        "activity",
+        "action",
+        "activeness"
+    ],
+    "chinois": [
+        "Chinese"
+    ],
+    "sac": [
+        "bag",
+        "handbag",
+        "pocketbook",
+        "purse"
+    ],
+    "sauver": [
+        "save",
+        "salvage",
+        "salve",
+        "relieve"
+    ],
+    "accuser": [
+        "accuse",
+        "charge"
+    ],
+    "caract\u00e8re": [
+        "character",
+        "grapheme",
+        "graphic symbol"
+    ],
+    "italien": [
+        "Italian"
+    ],
+    "pousser": [
+        "grow"
+    ],
+    "diversit\u00e9": [
+        "diversity",
+        "diverseness",
+        "multifariousness",
+        "variety"
+    ],
+    "r\u00e9duire": [
+        "reduce",
+        "cut down",
+        "cut back",
+        "trim",
+        "trim down",
+        "trim back",
+        "cut",
+        "bring down"
+    ],
+    "assoiff\u00e9": [
+        "thirsty"
+    ],
+    "t\u00e2che": [
+        "project",
+        "undertaking",
+        "task",
+        "labor"
+    ],
+    "plus": [
+        "more",
+        "more than"
+    ],
+    "identifier": [
+        "identify",
+        "place"
+    ],
+    "manifestement": [
+        "obviously",
+        "evidently",
+        "manifestly",
+        "patently",
+        "apparently",
+        "plainly",
+        "plain"
+    ],
+    "meilleur": [
+        "best"
+    ],
+    "caract\u00e9ristique": [
+        "feature",
+        "characteristic"
+    ],
+    "exercer": [
+        "do",
+        "practice",
+        "practise",
+        "exercise"
+    ],
+    "n\u00e9gociant": [
+        "businessman",
+        "man of affairs"
+    ],
+    "ce soir": [
+        "tonight",
+        "this evening",
+        "this night"
+    ],
+    "remplacer": [
+        "replace",
+        "supplant",
+        "supersede",
+        "supervene upon",
+        "supercede"
+    ],
+    "show": [
+        "show"
+    ],
+    "d\u00e9fense": [
+        "defense",
+        "defence",
+        "defense force",
+        "defence force"
+    ],
+    "il y a": [
+        "ago",
+        "agone"
+    ],
+    "amant": [
+        "boyfriend",
+        "fellow",
+        "beau",
+        "swain",
+        "young man"
+    ],
+    "charger": [
+        "load",
+        "charge"
+    ],
+    "devoir": [
+        "duty"
+    ],
+    "porter": [
+        "wear",
+        "have on"
+    ],
+    "rose": [
+        "pink",
+        "pinkish"
+    ],
+    "central": [
+        "central"
+    ],
+    "r\u00e9sultat": [
+        "result",
+        "resultant",
+        "final result",
+        "outcome",
+        "termination"
+    ],
+    "annoncer": [
+        "announce",
+        "denote"
+    ],
+    "lancer": [
+        "throw"
+    ],
+    "professionnel": [
+        "professional",
+        "professional person"
+    ],
+    "peu": [
+        "few"
+    ],
+    "tomate": [
+        "tomato"
+    ],
+    "affecter": [
+        "affect",
+        "impact",
+        "bear upon",
+        "bear on",
+        "touch on",
+        "touch"
+    ],
+    "emp\u00eacher": [
+        "prevent",
+        "forestall",
+        "foreclose",
+        "preclude",
+        "forbid"
+    ],
+    "manquer": [
+        "miss"
+    ],
+    "copine": [
+        "girlfriend",
+        "girl",
+        "lady friend"
+    ],
+    "croire": [
+        "believe"
+    ],
+    "choisir": [
+        "choose",
+        "take",
+        "select",
+        "pick out"
+    ],
+    "paire": [
+        "couple",
+        "pair",
+        "twosome",
+        "twain",
+        "brace",
+        "span",
+        "yoke",
+        "couplet",
+        "distich",
+        "duo",
+        "duet",
+        "dyad",
+        "duad"
+    ],
+    "menstruation": [
+        "menstruation",
+        "menses",
+        "menstruum",
+        "catamenia",
+        "period",
+        "flow"
+    ],
+    "sur": [
+        "after"
+    ],
+    "t\u00e9l\u00e9viseur": [
+        "television",
+        "tv set",
+        "television receiver",
+        "television set",
+        "tv",
+        "idiot box",
+        "boob tube",
+        "telly",
+        "goggle box"
+    ],
+    "salle de bain": [
+        "bathroom",
+        "bath"
+    ],
+    "d\u00e9velopper": [
+        "develop"
+    ],
+    "japonais": [
+        "Japanese"
+    ],
+    "restaurant": [
+        "restaurant",
+        "eating house",
+        "eating place",
+        "eatery"
+    ],
+    "passer": [
+        "spend",
+        "pass"
+    ],
+    "effort": [
+        "effort",
+        "elbow grease",
+        "exertion",
+        "travail",
+        "sweat"
+    ],
+    "sinc\u00e8re": [
+        "sincere"
+    ],
+    "morceau": [
+        "slice",
+        "piece"
+    ],
+    "particulier": [
+        "private",
+        "individual"
+    ],
+    "abdiquer": [
+        "give up",
+        "surrender"
+    ],
+    "totalit\u00e9": [
+        "whole"
+    ],
+    "milieu": [
+        "mean",
+        "mean value"
+    ],
+    "chanceux": [
+        "lucky"
+    ],
+    "valise": [
+        "suitcase",
+        "bag",
+        "traveling bag",
+        "travelling bag",
+        "grip"
+    ],
+    "de base": [
+        "basic"
+    ],
+    "subitement": [
+        "suddenly",
+        "all of a sudden",
+        "of a sudden"
+    ],
+    "consid\u00e9rer": [
+        "see",
+        "consider",
+        "reckon",
+        "view",
+        "regard"
+    ],
+    "violet": [
+        "violet",
+        "purple",
+        "purplish"
+    ],
+    "disponible": [
+        "available"
+    ],
+    "fonctionnaire": [
+        "officer",
+        "officeholder"
+    ],
+    "tenir": [
+        "hold",
+        "take hold"
+    ],
+    "production": [
+        "production"
+    ],
+    "aire": [
+        "area",
+        "expanse",
+        "surface area"
+    ],
+    "victoire": [
+        "win"
+    ],
+    "ch\u00f4meur": [
+        "unemployed"
+    ],
+    "public": [
+        "public"
+    ],
+    "cours": [
+        "course",
+        "class",
+        "course of study",
+        "course of instruction"
+    ],
+    "normal": [
+        "standard"
+    ],
+    "semblable": [
+        "similar"
+    ],
+    "de vulgarisation": [
+        "popular",
+        "pop"
+    ],
+    "scientifique": [
+        "scientist"
+    ],
+    "dehors": [
+        "outside"
+    ],
+    "local": [
+        "local"
+    ],
+    "caract\u00e8re": [
+        "personality"
+    ],
+    "langue": [
+        "language",
+        "natural language",
+        "tongue"
+    ],
+    "distinction": [
+        "award",
+        "accolade",
+        "honor",
+        "honour",
+        "laurels"
+    ],
+    "\u00e9tat": [
+        "state"
+    ],
+    "ensemble": [
+        "set"
+    ],
+    "partie": [
+        "part",
+        "share",
+        "portion",
+        "percentage"
+    ],
+    "conduire": [
+        "drive"
+    ],
+    "march\u00e9": [
+        "bargain",
+        "deal"
+    ],
+    "\u00e9vier": [
+        "sink"
+    ],
+    "chaque": [
+        "either"
+    ],
+    "pass\u00e9e": [
+        "beyond"
+    ],
+    "alternative": [
+        "option",
+        "alternative",
+        "choice"
+    ],
+    "exceptionnel": [
+        "unusual"
+    ],
+    "professionnel": [
+        "professional"
+    ],
+    "manquer": [
+        "miss"
+    ],
+    "enfin": [
+        "finally",
+        "last",
+        "lastly",
+        "in conclusion"
+    ],
+    "investigation": [
+        "research",
+        "inquiry",
+        "enquiry"
+    ],
+    "\u00e9vidence": [
+        "evidence"
+    ],
+    "espagnol": [
+        "Spanish"
+    ],
+    "servir": [
+        "serve"
+    ],
+    "r\u00e9cent": [
+        "recent"
+    ],
+    "autour": [
+        "about",
+        "around"
+    ],
+    "express": [
+        "express",
+        "limited"
+    ],
+    "ext\u00e9rieur": [
+        "outside",
+        "exterior"
+    ],
+    "mourir": [
+        "die",
+        "decease",
+        "perish",
+        "go",
+        "exit",
+        "pass away",
+        "expire",
+        "pass",
+        "kick the bucket",
+        "cash in one's chips",
+        "buy the farm",
+        "conk",
+        "give-up the ghost",
+        "drop dead",
+        "pop off",
+        "choke",
+        "croak",
+        "snuff it"
+    ],
+    "attitude": [
+        "attitude",
+        "mental attitude"
+    ],
+    "prendre": [
+        "catch",
+        "grab",
+        "take hold of"
+    ],
+    "ancien": [
+        "former",
+        "erstwhile",
+        "old",
+        "onetime",
+        "one-time",
+        "quondam",
+        "sometime"
+    ],
+    "financier": [
+        "financial",
+        "fiscal"
+    ],
+    "adresse": [
+        "skill",
+        "science"
+    ],
+    "indigent": [
+        "poor"
+    ],
+    "laisser": [
+        "leave"
+    ],
+    "proc\u00e9der": [
+        "behave",
+        "acquit",
+        "bear",
+        "deport",
+        "conduct",
+        "comport",
+        "carry"
+    ],
+    "pr\u00e9senter": [
+        "introduce",
+        "innovate"
+    ],
+    "mentir": [
+        "lie"
+    ],
+    "majeur": [
+        "major"
+    ],
+    "remettre": [
+        "render",
+        "return"
+    ],
+    "se rappeler": [
+        "remember",
+        "retrieve",
+        "recall",
+        "call back",
+        "call up",
+        "recollect",
+        "think"
+    ],
+    "usuel": [
+        "usual"
+    ],
+    "rapport": [
+        "report",
+        "study",
+        "written report"
+    ],
+    "sot": [
+        "silly",
+        "airheaded",
+        "dizzy",
+        "empty-headed",
+        "featherbrained",
+        "giddy",
+        "light-headed",
+        "lightheaded"
+    ],
+    "parent": [
+        "parent"
+    ],
+    "russe": [
+        "Russian"
+    ],
+    "adjacent": [
+        "next",
+        "adjacent",
+        "side by side"
+    ],
+    "aimer": [
+        "enjoy",
+        "bask",
+        "relish",
+        "savor",
+        "savour"
+    ],
+    "centre": [
+        "center",
+        "centre",
+        "midpoint"
+    ],
+    "normalement": [
+        "usually",
+        "normally",
+        "unremarkably",
+        "commonly",
+        "ordinarily"
+    ],
+    "peser": [
+        "weigh"
+    ],
+    "intituler": [
+        "title",
+        "entitle"
+    ],
+    "\u00e9tabli": [
+        "set",
+        "laid"
+    ],
+    "m\u00e9chant": [
+        "mean",
+        "hateful"
+    ],
+    "rendre": [
+        "pass",
+        "hand",
+        "reach",
+        "pass on",
+        "turn over",
+        "give"
+    ],
+    "important": [
+        "important",
+        "significant"
+    ],
+    "pr\u00e9sident": [
+        "president"
+    ],
+    "le long de": [
+        "along"
+    ],
+    "devant": [
+        "before",
+        "ahead",
+        "in front"
+    ],
+    "g\u00e9n\u00e9ralement": [
+        "mostly",
+        "by and large",
+        "generally",
+        "more often than not"
+    ],
+    "joindre": [
+        "add"
+    ],
+    "se reposer": [
+        "rest"
+    ],
+    "distinctement": [
+        "clearly"
+    ],
+    "particulier": [
+        "particular"
+    ],
+    "savoir": [
+        "know",
+        "cognize",
+        "cognise"
+    ],
+    "organiser": [
+        "plan"
+    ],
+    "publier": [
+        "publish",
+        "bring out",
+        "put out",
+        "issue",
+        "release"
+    ],
+    "manoeuvrer": [
+        "operate",
+        "control"
+    ],
+    "propre": [
+        "own",
+        "ain"
+    ],
+    "probe": [
+        "good",
+        "just",
+        "upright"
+    ],
+    "feuilleton": [
+        "serial",
+        "series"
+    ],
+    "inclure": [
+        "include"
+    ],
+    "remettre": [
+        "deliver"
+    ],
+    "plus loin": [
+        "further",
+        "farther"
+    ],
+    "social": [
+        "social"
+    ],
+    "supposer": [
+        "suppose",
+        "say"
+    ],
+    "profiter": [
+        "benefit",
+        "do good"
+    ],
+    "plut\u00f4t": [
+        "preferably",
+        "sooner",
+        "rather"
+    ],
+    "partager": [
+        "share"
+    ],
+    "impliquer": [
+        "imply",
+        "involve"
+    ],
+    "le moins": [
+        "least",
+        "to the lowest degree"
+    ],
+    "r\u00e9fl\u00e9chir": [
+        "think",
+        "cogitate",
+        "cerebrate"
+    ],
+    "formuler": [
+        "express",
+        "state"
+    ],
+    "vraiment": [
+        "indeed",
+        "so"
+    ],
+    "au lieu de": [
+        "instead",
+        "alternatively",
+        "or else"
+    ],
+    "succ\u00e8s": [
+        "hit",
+        "smash",
+        "smasher",
+        "strike",
+        "bang"
+    ],
+    "coup de fil": [
+        "call",
+        "phone call",
+        "telephone call"
+    ],
+    "cent": [
+        "hundred",
+        "one hundred",
+        "100",
+        "c"
+    ],
+    "vie": [
+        "life"
+    ],
+    "d\u00e9couvrir": [
+        "discover",
+        "find"
+    ],
+    "fonction": [
+        "function",
+        "office",
+        "part",
+        "role"
+    ],
+    "pr\u00e9c\u00e9dent": [
+        "previous",
+        "old"
+    ],
+    "image": [
+        "image"
+    ],
+    "place": [
+        "seat"
+    ],
+    "patron": [
+        "model"
+    ],
+    "individu": [
+        "individual"
+    ],
+    "membre": [
+        "member",
+        "fellow member"
+    ],
+    "usure": [
+        "wear"
+    ],
+    "encourager": [
+        "encourage"
+    ],
+    "plusieurs": [
+        "several"
+    ],
+    "contre": [
+        "against"
+    ],
+    "dans": [
+        "among",
+        "amongst",
+        "amid",
+        "amidst"
+    ],
+    "et": [
+        "and"
+    ],
+    "quiconque": [
+        "anyone"
+    ],
+    "parce que": [
+        "because"
+    ],
+    "aupr\u00e8s de": [
+        "beside"
+    ],
+    "durant": [
+        "during"
+    ],
+    "tout le monde": [
+        "everybody",
+        "everyone"
+    ],
+    "tout": [
+        "everything"
+    ],
+    "car": [
+        "for"
+    ],
+    "pour": [
+        "for"
+    ],
+    "de": [
+        "from"
+    ],
+    "son": [
+        "her"
+    ],
+    "se": [
+        "herself"
+    ],
+    "lui": [
+        "him"
+    ],
+    "se": [
+        "himself"
+    ],
+    "son": [
+        "his"
+    ],
+    "si": [
+        "if"
+    ],
+    "dans": [
+        "into"
+    ],
+    "\u00e7a": [
+        "it"
+    ],
+    "me": [
+        "me"
+    ],
+    "mon": [
+        "my"
+    ],
+    "de": [
+        "of"
+    ],
+    "ou": [
+        "or"
+    ],
+    "notre": [
+        "our"
+    ],
+    "elle": [
+        "she"
+    ],
+    "depuis": [
+        "since"
+    ],
+    "que": [
+        "than"
+    ],
+    "leur": [
+        "their"
+    ],
+    "les": [
+        "them"
+    ],
+    "ces": [
+        "these"
+    ],
+    "ils": [
+        "they"
+    ],
+    "cette": [
+        "this"
+    ],
+    "ces": [
+        "those"
+    ],
+    "vers": [
+        "to"
+    ],
+    "jusque": [
+        "until"
+    ],
+    "nous": [
+        "us"
+    ],
+    "nous": [
+        "we"
+    ],
+    "ce": [
+        "what"
+    ],
+    "quand": [
+        "when"
+    ],
+    "n'importe quand": [
+        "whenever"
+    ],
+    "quel": [
+        "which"
+    ],
+    "qui": [
+        "who"
+    ],
+    "que": [
+        "whom"
+    ],
+    "de qui": [
+        "whose"
+    ],
+    "avec": [
+        "with"
+    ],
+    "sans": [
+        "without"
+    ],
+    "vous": [
+        "you"
+    ],
+    "tes": [
+        "your"
+    ],
+    "te": [
+        "yourself"
+    ],
+    "ce": [
+        "that"
+    ],
+    "le": [
+        "the"
+    ],
+    "contre": [
+        "at"
+    ],
+    "pourquoi": [
+        "why"
+    ],
+    "\u00e0": [
+        "on"
+    ],
+    "lui": [
+        "he"
+    ],
+    "un": [
+        "a",
+        "an"
+    ],
+    "n'importe quoi": [
+        "anything"
+    ],
+    "tonnerre": [
+        "thunder"
+    ],
+    "septembre": [
+        "September",
+        "Sep",
+        "Sept"
+    ],
+    "mai": [
+        "May"
+    ],
+    "mardi": [
+        "Tuesday",
+        "Tues"
+    ],
+    "ao\u00fbt": [
+        "August",
+        "Aug"
+    ],
+    "citron": [
+        "lemon"
+    ],
+    "\u00e9cologie": [
+        "ecology",
+        "bionomics",
+        "environmental science"
+    ],
+    "orage": [
+        "storm",
+        "violent storm"
+    ],
+    "carotte": [
+        "carrot",
+        "cultivated carrot",
+        "Daucus carota sativa"
+    ],
+    "comment allez-vous": [
+        "how are you"
+    ],
+    "\u00e0": [
+        "on"
+    ],
+    "de": [
+        "from"
+    ],
+    "de rien": [
+        "you're welcome"
+    ],
+    "je ne sais pas": [
+        "I don't know"
+    ],
+    "sant\u00e9": [
+        "cheers"
+    ],
+    "contre": [
+        "at"
+    ],
+    "parles-tu anglais": [
+        "do you speak English"
+    ],
+    "merci beaucoup": [
+        "many thanks"
+    ],
+    "bonjour": [
+        "good day"
+    ],
+    "merci beaucoup": [
+        "thank you very much"
+    ],
+    "je ne comprends pas": [
+        "I don't understand"
+    ],
+    "je m'appelle": [
+        "my name is"
+    ],
+    "bon courage": [
+        "good luck"
+    ],
+    "d\u00e9sol\u00e9": [
+        "sorry"
+    ],
+    "d\u00e9sol\u00e9": [
+        "sorry"
+    ],
+    "quel": [
+        "which"
+    ],
+    "avec": [
+        "with"
+    ],
+    "comment vous appelez-vous": [
+        "what is your name"
+    ],
+    "ail": [
+        "garlic",
+        "ail"
+    ],
+    "arc-en-ciel": [
+        "rainbow"
+    ],
+    "prune": [
+        "plum"
+    ],
+    "oignon": [
+        "onion",
+        "onion plant",
+        "Allium cepa"
+    ],
+    "concombre": [
+        "cucumber",
+        "cuke"
+    ],
+    "haricot": [
+        "bean",
+        "edible bean"
+    ],
+    "fraise": [
+        "strawberry"
+    ],
+    "p\u00eache": [
+        "peach"
+    ],
+    "banane": [
+        "banana"
+    ],
+    "framboise": [
+        "raspberry"
+    ],
+    "chou": [
+        "cabbage",
+        "chou"
+    ],
+    "riche": [
+        "rich"
+    ],
+    "\u00e9clair": [
+        "lightning"
+    ],
+    "faible": [
+        "weak"
+    ],
+    "abricot": [
+        "apricot"
+    ],
+    "poire": [
+        "pear"
+    ],
+    "ozone": [
+        "ozone"
+    ],
+    "ros\u00e9e": [
+        "dew"
+    ],
+    "olive": [
+        "olive"
+    ],
+    "atmosph\u00e8re": [
+        "atmosphere",
+        "air"
+    ],
+    "pollution": [
+        "pollution"
+    ],
+    "ananas": [
+        "pineapple",
+        "ananas"
+    ],
+    "cerise": [
+        "cherry"
+    ],
+    "r\u00e9chauffement climatique": [
+        "global warming"
+    ],
+    "effet de serre": [
+        "greenhouse effect",
+        "greenhouse warming"
+    ],
+    "recyclage": [
+        "recycling"
+    ],
+    "givre": [
+        "frost",
+        "hoar",
+        "hoarfrost",
+        "rime"
+    ],
+    "dissimuler": [
+        "hide",
+        "conceal"
+    ],
+    "radis": [
+        "radish"
+    ],
+    "pluie acide": [
+        "acid rain",
+        "acid precipitation"
+    ],
+    "brouillard": [
+        "fog"
+    ],
+    "combustible fossile": [
+        "fossil fuel"
+    ],
+    "smog": [
+        "smog",
+        "smogginess"
+    ],
+    "m\u00fbre": [
+        "blackberry"
+    ],
+    "changement climatique": [
+        "climate change",
+        "global climate change"
+    ],
+    "panais": [
+        "parsnip",
+        "Pastinaca sativa"
+    ],
+    "d\u00e9p\u00f4t": [
+        "dump",
+        "garbage dump",
+        "trash dump",
+        "rubbish dump",
+        "wasteyard",
+        "waste-yard",
+        "dumpsite"
+    ]
+}

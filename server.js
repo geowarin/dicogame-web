@@ -7,6 +7,7 @@ new WebpackDevServer(webpack(config), {
   hot: true,
   inline: true,
   historyApiFallback: true,
+  contentBase: './data',
   stats: {
     colors: true
   }
